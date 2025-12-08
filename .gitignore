@@ -4,7 +4,7 @@
 # Docusaurus build and cache
 /docusaurus/build/
 /build/
-/.docusaurus/
+/docusaurus/.docusaurus/
 .cache/
 .cache-loader/
 
