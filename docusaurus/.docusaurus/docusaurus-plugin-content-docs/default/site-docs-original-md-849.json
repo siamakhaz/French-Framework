@@ -1,0 +1,17 @@
+{
+  "id": "original",
+  "title": "Original — TEF CANADA Expression Orale (Full source)",
+  "description": "Jean K. Mathieu",
+  "source": "@site/docs/original.md",
+  "sourceDirName": ".",
+  "slug": "/original",
+  "permalink": "/original",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Original — TEF CANADA Expression Orale (Full source)",
+    "sidebar_label": "Original source (MD)"
+  }
+}

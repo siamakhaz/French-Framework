@@ -1,0 +1,23 @@
+{
+  "id": "section_B/verbs_conjugations",
+  "title": "Section B — Essential Verbs & Conjugations",
+  "description": "This reference contains the most important verbs for Section B discussions, conjugated across all necessary tenses for expressing arguments, objections, preferences, and persuasion.",
+  "source": "@site/docs/section_B/verbs_conjugations.md",
+  "sourceDirName": "section_B",
+  "slug": "/section_B/verbs_conjugations",
+  "permalink": "/section_B/verbs_conjugations",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Section B Playbook — Complete Strategic Guide",
+    "permalink": "/section_B/section_b_playbook"
+  },
+  "next": {
+    "title": "Section B — Essential Vocabulary & Translations",
+    "permalink": "/section_B/Vocabs"
+  }
+}

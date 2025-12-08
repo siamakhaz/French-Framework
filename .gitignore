@@ -1,0 +1,48 @@
+# Node modules
+/docusaurus/node_modules/
+
+# Docusaurus build and cache
+/docusaurus/build/
+/build/
+/.docusaurus/
+.cache/
+.cache-loader/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Environment files
+.env
+.env.*.local
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor
+.vscode/
+.idea/
+*.sublime-workspace
+*.swp
+*~
+
+# Coverage
+coverage/
+
+# Distribution / temporary
+dist/
+tmp/
+temp/
+/.out/
+*.tgz
+
+# Misc
+*.bak
+*.orig
+/TEF-Canada-Expression-Orale-150-Topics.pdf

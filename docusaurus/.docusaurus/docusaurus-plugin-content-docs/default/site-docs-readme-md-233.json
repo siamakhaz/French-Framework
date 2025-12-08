@@ -1,0 +1,18 @@
+{
+  "id": "README",
+  "title": "TEF Oral Docs",
+  "description": "This folder contains the imported TEF materials.",
+  "source": "@site/docs/README.md",
+  "sourceDirName": ".",
+  "slug": "/docs-home",
+  "permalink": "/docs-home",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "TEF Oral Docs",
+    "sidebar_label": "Home",
+    "slug": "/docs-home"
+  }
+}

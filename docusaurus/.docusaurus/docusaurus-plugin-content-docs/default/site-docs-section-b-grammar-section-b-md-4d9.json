@@ -1,0 +1,23 @@
+{
+  "id": "section_B/grammar_section_B",
+  "title": "Section B — Essential Grammar Structures",
+  "description": "This file covers the most important grammar structures used in Section B discussions. Master these patterns to speak naturally, persuasively, and grammatically correct.",
+  "source": "@site/docs/section_B/grammar_section_B.md",
+  "sourceDirName": "section_B",
+  "slug": "/section_B/grammar_section_B",
+  "permalink": "/section_B/grammar_section_B",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Section B — Complete Topic List",
+    "permalink": "/section_B/topic"
+  },
+  "next": {
+    "title": "Section B Playbook — Complete Strategic Guide",
+    "permalink": "/section_B/section_b_playbook"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "section_B/section_b_playbook",
+  "title": "Section B Playbook — Complete Strategic Guide",
+  "description": "Overview of Section B Task",
+  "source": "@site/docs/section_B/section_b_playbook.md",
+  "sourceDirName": "section_B",
+  "slug": "/section_B/section_b_playbook",
+  "permalink": "/section_B/section_b_playbook",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Section B — Essential Grammar Structures",
+    "permalink": "/section_B/grammar_section_B"
+  },
+  "next": {
+    "title": "Section B — Essential Verbs & Conjugations",
+    "permalink": "/section_B/verbs_conjugations"
+  }
+}

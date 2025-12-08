@@ -1,0 +1,24 @@
+{
+  "id": "tef-exam",
+  "title": "TEF Exam Overview",
+  "description": "This guide helps you prepare for the TEF Canada Expression Orale exam with focused practice materials, vocabulary, and grammar references. Start here to understand the structure and jump into the sections you need most.",
+  "source": "@site/docs/tef-exam.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "tef-exam",
+    "title": "TEF Exam Overview",
+    "slug": "/",
+    "sidebar_label": "TEF exam"
+  },
+  "sidebar": "sidebar",
+  "next": {
+    "title": "Section A — Topics",
+    "permalink": "/section_A/topics"
+  }
+}

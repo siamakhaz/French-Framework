@@ -1,0 +1,23 @@
+{
+  "id": "section_A/questions_grammar_by_category",
+  "title": "TEF Canada — Grammar Patterns for Section A Questions",
+  "description": "This document lists the main grammar structures used in the questions from topicsquestionsby_category.md. For each category I summarize the recurring grammar points, give short explanations and present example question templates you can reuse during practice.",
+  "source": "@site/docs/section_A/questions_grammar_by_category.md",
+  "sourceDirName": "section_A",
+  "slug": "/section_A/questions_grammar_by_category",
+  "permalink": "/section_A/questions_grammar_by_category",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "TEF Canada — Standard Questions Quick Reference",
+    "permalink": "/section_A/standard_questions_quick_reference"
+  },
+  "next": {
+    "title": "TEF Canada — Essential Vocabulary by Category",
+    "permalink": "/section_A/vocab_by_category"
+  }
+}

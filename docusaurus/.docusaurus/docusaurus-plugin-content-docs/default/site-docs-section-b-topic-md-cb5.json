@@ -1,0 +1,23 @@
+{
+  "id": "section_B/topic",
+  "title": "Section B — Complete Topic List",
+  "description": "This file contains all Section B topics extracted from TEF-CANADA-Expression-Oral.md. Each topic is structured as a presentation followed by suggested counter-arguments and objections students might encounter.",
+  "source": "@site/docs/section_B/topic.md",
+  "sourceDirName": "section_B",
+  "slug": "/section_B/topic",
+  "permalink": "/section_B/topic",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Section A Playbook — TEF Canada (Practical Guide)",
+    "permalink": "/section_A/section_a_playbook1"
+  },
+  "next": {
+    "title": "Section B — Essential Grammar Structures",
+    "permalink": "/section_B/grammar_section_B"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "section_A/vocab_by_category",
+  "title": "TEF Canada — Essential Vocabulary by Category",
+  "description": "This list collects essential French vocabulary used in Section A questions (and related topics) with English translations. Use it for study, flashcards, or quick reference during practice.",
+  "source": "@site/docs/section_A/vocab_by_category.md",
+  "sourceDirName": "section_A",
+  "slug": "/section_A/vocab_by_category",
+  "permalink": "/section_A/vocab_by_category",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "TEF Canada — Grammar Patterns for Section A Questions",
+    "permalink": "/section_A/questions_grammar_by_category"
+  },
+  "next": {
+    "title": "TEF Canada — Verbs and Conjugations (key tenses)",
+    "permalink": "/section_A/verbs_conjugations"
+  }
+}

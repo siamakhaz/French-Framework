@@ -1,0 +1,23 @@
+{
+  "id": "section_A/verbs_conjugations",
+  "title": "TEF Canada — Verbs and Conjugations (key tenses)",
+  "description": "This file lists common verbs used in the TEF Section A materials and gives conjugation tables for these tenses:",
+  "source": "@site/docs/section_A/verbs_conjugations.md",
+  "sourceDirName": "section_A",
+  "slug": "/section_A/verbs_conjugations",
+  "permalink": "/section_A/verbs_conjugations",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "TEF Canada — Essential Vocabulary by Category",
+    "permalink": "/section_A/vocab_by_category"
+  },
+  "next": {
+    "title": "TEF Canada: Section A Playbook",
+    "permalink": "/section_A/section_a_playbook"
+  }
+}

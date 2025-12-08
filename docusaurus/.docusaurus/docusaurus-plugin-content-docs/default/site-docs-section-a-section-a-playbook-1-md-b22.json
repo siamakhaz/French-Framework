@@ -1,0 +1,23 @@
+{
+  "id": "section_A/section_a_playbook1",
+  "title": "Section A Playbook — TEF Canada (Practical Guide)",
+  "description": "1. The Conversational Arc Framework",
+  "source": "@site/docs/section_A/section_a_playbook1.md",
+  "sourceDirName": "section_A",
+  "slug": "/section_A/section_a_playbook1",
+  "permalink": "/section_A/section_a_playbook1",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "TEF Canada: Section A Playbook",
+    "permalink": "/section_A/section_a_playbook"
+  },
+  "next": {
+    "title": "Section B — Complete Topic List",
+    "permalink": "/section_B/topic"
+  }
+}

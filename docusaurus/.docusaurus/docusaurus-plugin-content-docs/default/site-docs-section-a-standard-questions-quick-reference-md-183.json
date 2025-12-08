@@ -1,0 +1,23 @@
+{
+  "id": "section_A/standard_questions_quick_reference",
+  "title": "TEF Canada — Standard Questions Quick Reference",
+  "description": "This is a quick-reference markdown file listing the standard questions from each topic in the TEF-CANADA-Expression-Oral.md. Use this during practice to prepare for Section A simulations.",
+  "source": "@site/docs/section_A/standard_questions_quick_reference.md",
+  "sourceDirName": "section_A",
+  "slug": "/section_A/standard_questions_quick_reference",
+  "permalink": "/section_A/standard_questions_quick_reference",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "TEF Canada — Section A: Questions by Category",
+    "permalink": "/section_A/topics_questions_by_category"
+  },
+  "next": {
+    "title": "TEF Canada — Grammar Patterns for Section A Questions",
+    "permalink": "/section_A/questions_grammar_by_category"
+  }
+}

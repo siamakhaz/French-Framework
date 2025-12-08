@@ -1,0 +1,19 @@
+{
+  "id": "section_B/Vocabs",
+  "title": "Section B — Essential Vocabulary & Translations",
+  "description": "This file contains key vocabulary from all Section B topics, organized by category. Use this reference to understand topic concepts and build arguments during your 10-minute discussions.",
+  "source": "@site/docs/section_B/Vocabs.md",
+  "sourceDirName": "section_B",
+  "slug": "/section_B/Vocabs",
+  "permalink": "/section_B/Vocabs",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Section B — Essential Verbs & Conjugations",
+    "permalink": "/section_B/verbs_conjugations"
+  }
+}

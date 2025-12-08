@@ -1,0 +1,117 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "tef-exam",
+          "docs": [
+            {
+              "id": "original",
+              "path": "/original"
+            },
+            {
+              "id": "README",
+              "path": "/docs-home"
+            },
+            {
+              "id": "section_A/questions_grammar_by_category",
+              "path": "/section_A/questions_grammar_by_category",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "section_A/section_a_playbook",
+              "path": "/section_A/section_a_playbook",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "section_A/section_a_playbook1",
+              "path": "/section_A/section_a_playbook1",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "section_A/standard_questions_quick_reference",
+              "path": "/section_A/standard_questions_quick_reference",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "section_A/topics",
+              "path": "/section_A/topics",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "section_A/topics_by_category",
+              "path": "/section_A/topics_by_category",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "section_A/topics_questions_by_category",
+              "path": "/section_A/topics_questions_by_category",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "section_A/verbs_conjugations",
+              "path": "/section_A/verbs_conjugations",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "section_A/vocab_by_category",
+              "path": "/section_A/vocab_by_category",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "section_B/grammar_section_B",
+              "path": "/section_B/grammar_section_B",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "section_B/section_b_playbook",
+              "path": "/section_B/section_b_playbook",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "section_B/topic",
+              "path": "/section_B/topic",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "section_B/verbs_conjugations",
+              "path": "/section_B/verbs_conjugations",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "section_B/Vocabs",
+              "path": "/section_B/Vocabs",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "tef-exam",
+              "path": "/",
+              "sidebar": "sidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/",
+                "label": "tef-exam"
+              }
+            },
+            "sidebar": {
+              "link": {
+                "path": "/",
+                "label": "tef-exam"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

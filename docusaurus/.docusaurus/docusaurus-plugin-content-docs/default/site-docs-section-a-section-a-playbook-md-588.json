@@ -1,0 +1,23 @@
+{
+  "id": "section_A/section_a_playbook",
+  "title": "TEF Canada: Section A Playbook",
+  "description": "This document provides a strategic guide for successfully completing Section A of the TEF Canada Expression Orale exam. It contains a framework for structuring your conversation, key techniques to improve your performance, and a bank of ready-to-use questions for common topics.",
+  "source": "@site/docs/section_A/section_a_playbook.md",
+  "sourceDirName": "section_A",
+  "slug": "/section_A/section_a_playbook",
+  "permalink": "/section_A/section_a_playbook",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "TEF Canada — Verbs and Conjugations (key tenses)",
+    "permalink": "/section_A/verbs_conjugations"
+  },
+  "next": {
+    "title": "Section A Playbook — TEF Canada (Practical Guide)",
+    "permalink": "/section_A/section_a_playbook1"
+  }
+}
