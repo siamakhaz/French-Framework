@@ -23,7 +23,7 @@ To your success!
 
 Jean K. MATHIEU
 
-**TEF EXPRESSION ORALE**
+# TEF EXPRESSION ORALE
 
 # 150 TOPICS TO SUCCEED
 
@@ -153,7 +153,7 @@ To get a B2 level you will need this score for:
 - Compréhension Orale: 279
 - Compréhension Ecrite: 232
 
-#### SCORES FOR C1 LEVEL:
+### SCORES FOR C1 LEVEL:
 
 **Compréhension Ecrite**
 - 233 - 247 (NCLC: 8)
@@ -175,7 +175,7 @@ To get a B2 level you will need this score for:
 - 371 - 392 (NCLC: 9)
 - 393 - 415 (NCLC: 10)
 
-#### SCORES FOR C2 LEVEL:
+### SCORES FOR C2 LEVEL:
 
 **Compréhension Ecrite** 278 - 300 (NCLC: 11 à 12)
 **Compréhension Orale** 334 - 360 (NCLC: 11 à 12)
@@ -380,9 +380,7 @@ que voulez-vous dire par « __ »
 
 ## Topics
 
-```
-Appartement à vendre
-```
+## Appartement à vendre
 ```
 À VENDRE. Au 4e étage d ’ un immeuble ancien en plein centre-ville.
 Appartement rénové et très clair. Beaucoup de charme.
@@ -426,9 +424,7 @@ Standard questions
 - Quels documents dois-je fournir pour le contrat? Dois-je
     payer une caution? Quel est le montant?
 
-```
-Appartement à louer
-```
+## Appartement à louer
 À 5 min du métro Corentin Celton et des commerces, 2 pièces de 58
 m2 rénové dans un bel immeuble années 30. Situé au 8e et dernier
 étage avec ascenseur comprenant une entrée, salon, salle à manger,
@@ -485,9 +481,7 @@ Standard questions
 - Quelles sont les conditions requises pour louer l’appartement?
 - Faut-il des garants?
 
-```
-Maison à vendre
-```
+## Maison à vendre
 ```
 BAGNOLS SUR CEZE
 LE DOMAINE DES PINS
@@ -523,9 +517,7 @@ Standard questions
     vous être disponible le week-end pour faire la visite de la
     maison?
 
-```
-Meubles à vendre
-```
+## Meubles à vendre
 ```
 VENTE- Occasion à saisir – Vends meubles à prix très intéressants –
 Téléphonez vite au 14 543 212
@@ -583,9 +575,7 @@ Standard questions
 - À quelle adresse il est?
 - Est-ce que vous pouvez le livrer si j’habite à la campagne?
 
-```
-Échange d’appartement
-```
+## Échange d’appartement
 ```
 (75) Paris 12e 3 pièces - De particulier à particulier – Échange
 juillet août 3pièces - 57mètres carré, très bien situé – Lumineux
@@ -670,9 +660,7 @@ Exemple de dialogue
 - Très bien, je crois que je vais la prendre.
 
 
-```
-Location de vélo
-```
+## Location de vélo
 ```
 BICYTOUR
 Pour des vacances sereines et détendues,
@@ -713,9 +701,7 @@ Standard questions
     regarder? Quelle est votre adresse? Et quels sont vos horaires
     d’ouverture?
 
-```
-Musée du Louvre
-```
+## Musée du Louvre
 ```
 S ’ AMUSER AU MUSÉE DU LOUVRE - À LA DÉCOUVERTE DES
 ANIMAUX
@@ -753,9 +739,7 @@ Standard questions
 - Est-ce qu’on peut visiter les autres pièces du Louvre avec le
     billet d’entrée?
 
-```
-Camp d’été pour enfants
-```
+## Camp d’été pour enfants
 ```
 Été 2020 - Centre de vacances - Pour enfants de 6 à 12 ans
 ```
@@ -785,9 +769,7 @@ Standard questions
 - Combien coûte une saison dans le camp?
 - Que dois-je faire pour inscrire mon enfant?
 
-```
-La fête des voisins
-```
+## La fête des voisins
 Immeuble en fête - La fête des voisins mardi. Une fête est organisée
 dans l _’_ immeuble. Au programme, apéritif, buffet, musique. Si vous
 êtes intéressé(e), téléphonez-nous au 08 73 21 40 33 Mme Aurore.
@@ -824,9 +806,7 @@ Standard questions
 - Avons-nous besoin de décorer la salle pour la fête?
 
 
-```
-Atelier Musique et Spectacles
-```
+## Atelier Musique et Spectacles
 ```
 ATELIERS MUSIQUE & SPECTACLES
 Audition
@@ -860,9 +840,7 @@ Standard questions
     une réduction pour eux, et combien ça coûte?
 
 
-```
-Centre Sport et Forme
-```
+## Centre Sport et Forme
 ```
 45 % des Français se réveillent fatigués, même après une bonne nuit
 de sommeil.
@@ -895,9 +873,7 @@ Standard questions
     se faire rembourser?
 
 
-```
-Soutien scolaire
-```
+## Soutien scolaire
 ```
 Soutien scolaire ajusté à votre budget
 Vos avantages :
@@ -927,12 +903,8 @@ Standard questions
 - Qu’est ce que mon enfant doit préparer?
 
 
-```
-Cours
-```
-```
-Cours de cuisine
-```
+## Cours
+## Cours de cuisine
 ```
 Soirée « COURS DE CUISINE » Animée par notre chef/Nombre de
 places limité à 12 personnes/Informations et inscription par
@@ -976,9 +948,7 @@ Standard questions
     de temps en temps? Je travaille beaucoup et je n’ai pas
     toujours de temps libre.
 
-```
-Cours de jardinage
-```
+## Cours de jardinage
 ```
 En octobre et en novembre
 Rendez-vous aux ateliers d ’ automne
@@ -1025,9 +995,7 @@ Standard questions
     vous des brochures?
 
 
-```
-Cours de Yoga
-```
+## Cours de Yoga
 ```
 COURS DE YOGA
 Nous vous offrons des cours sur inscription variés qui vous
@@ -1095,9 +1063,7 @@ Standard Questions
 - Y a-t-il des arrêts d’autobus?
 
 
-```
-S ’ inscrire dans une école de danse
-```
+## S ’ inscrire dans une école de danse
 Studio de danse BENNET _–_ 7 rue de hourque _–_ Loisirs ou
 compétition _–_ Enfants à partie de 4 ans _–_ Ados/adultes _–_ Hip-hop _–_
 salsa _–_ danse africaine _– Rock’n roll –_ APPELEZ VITE! 06 98 55 73
@@ -1120,9 +1086,7 @@ Standard questions
 - Il y a une station de métro à côté de votre école?
 
 
-```
-Cours de pilotage
-```
+## Cours de pilotage
 ```
 Venez vous faire plaisir sur le circuit de Bresse – Testez vos limites!
 Cours de pilotage avec un moniteur professionnel – Sport –
@@ -1148,9 +1112,7 @@ Standard questions
 - Est-ce que vous avez une brochure? Un dépliant?
 
 
-```
-S ’ inscrire à des cours des langues étrangères
-```
+## S ’ inscrire à des cours des langues étrangères
 Apprenez une langue étrangère!
 En soirée, de 19 heures à 21 heures, en semaine (hors congés)
 ```
@@ -1184,9 +1146,7 @@ Standard questions
     japonais. Enseignez-vous le japonais?
 
 
-```
-Cours de journalisme
-```
+## Cours de journalisme
 ```
 Licence Professionnelle – formation sur 9 mois – Journaliste
 multimédias – École supérieure de journalisme de Lille
@@ -1218,9 +1178,7 @@ Standard questions
     web?
 
 
-```
-Hôtel Méribourg
-```
+## Hôtel Méribourg
 ```
 Hôtel Méribourg - Manoir des Neiges
 Forfait ski d’1 nuitée 1 petit-déjeuner 1 journée de ski au Mont
@@ -1295,9 +1253,7 @@ Standard questions
     y a une réduction?
 - Merci, vous êtes aimable, je vais réfléchir, au revoir.
 
-```
-Thalasso en Tunisie
-```
+## Thalasso en Tunisie
 ```
 THALASSO EN TUNISIE
 Hôtel Mourad Hammamet 5 étoile
@@ -1331,9 +1287,7 @@ Standard questions
 - Bon, j’ai noté. Merci beaucoup. je vous rappellerai bientôt
     j’espère. Au revoir.
 
-```
-Location de voiture
-```
+## Location de voiture
 LOCATOUR
 _Vous voulez voyager à l’étranger? Vous n’avez pas de voiture_! Vous
 souhaitez bénéficier de prix intéressants?
@@ -1361,9 +1315,7 @@ Standard questions
 - On peut doter la voiture d’un siège auto bébé? On en a besoin
     de deux!
 
-```
-Star Med Vacances
-```
+## Star Med Vacances
 ```
 Star Med VACANCES/Espagne Villas et appartements/
 Proches de la mer/Villas avec piscine privée à partir de 300
@@ -1409,9 +1361,7 @@ Standard questions
 - Merci, je vais réfléchir, je vous rappellerai. Au revoir.
 
 
-```
-Vacances Joker
-```
+## Vacances Joker
 ```
 VACANCES JOKER
 10 % à 25 % Sur un grand choix de LOGEMENTS À LOUER,
@@ -1441,9 +1391,7 @@ Standard questions
     ce que c’est bien desservi?
 
 
-```
-Concours de chanson
-```
+## Concours de chanson
 ```
 CONCOURS ORGANISÉ PAR LA VILLE DE SAINT-CLOUD ET
 LE FESTIVAL SEINE DU ROCK
@@ -1478,9 +1426,7 @@ Standard questions
     revoir.
 
 
-```
-Recherche des acteurs figurants
-```
+## Recherche des acteurs figurants
 ```
 [Spectacle]
 La Compagnie ciné-art recherche des acteurs figurants, hommes et
@@ -1521,9 +1467,7 @@ Standard questions
 - Si je participe au spectacle, ma famille, ils voudront venir voir
     la comédie, est-ce que ce sera gratuit pour eux?
 
-```
-Garde d ’ enfants
-```
+## Garde d ’ enfants
 ```
 Lausanne, Centre/rue centrale.
 Cherche JF/JH expérimenté pour s ’ occuper de deux enfants (7 et
@@ -1550,9 +1494,7 @@ Standard questions
 - Si vous me choisissez, est-ce on signera un contrat?
 
 
-```
-Recherche baby-sitter
-```
+## Recherche baby-sitter
 ```
 Ville : Bordeaux
 Département : 33
@@ -1583,9 +1525,7 @@ Standard questions
 - Quel est le salaire horaire? Tarif net ou brut?
 
 
-```
-Offre d’emploi. Garde d’animaux
-```
+## Offre d’emploi. Garde d’animaux
 ```
 Recherche personne sérieuse pour garder animaux de compagnie
 pendant les vacances. Salaire intéressant.
@@ -1617,9 +1557,7 @@ Standard questions
 voisinage de la maison?
 
 
-```
-Garde d’animaux
-```
+## Garde d’animaux
 ```
 Nous nous occupons de vos animaux pendant votre absence!
 Surveillance, sortie, garde
@@ -1645,9 +1583,7 @@ Standard questions
 - Quelles sont les personnes qui vont s’occuper de mon chien?
 
 
-```
-Gardiennage de maison
-```
+## Gardiennage de maison
 ```
 Vous partez en vacances et vous recherchez une personne pour
 garder votre domicile? Vous avez trouvé le gardien qu ’ il vous faut!
