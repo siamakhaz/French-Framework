@@ -4,7 +4,7 @@ This list collects essential French vocabulary used in Section A questions (and 
 
 ---
 
-**Housing & Rentals**
+## Housing & Rentals
 
 | French | English |
 |---|---|
@@ -38,7 +38,7 @@ This list collects essential French vocabulary used in Section A questions (and 
 
 ---
 
-**Transport & Vehicle Rental**
+## Transport & Vehicle Rental
 
 | French | English |
 |---|---|
@@ -64,7 +64,7 @@ This list collects essential French vocabulary used in Section A questions (and 
 
 ---
 
-**Travel & Holidays**
+## Travel & Holidays
 
 | French | English |
 |---|---|
@@ -84,7 +84,7 @@ This list collects essential French vocabulary used in Section A questions (and 
 
 ---
 
-**Courses, Workshops & Education**
+## Courses, Workshops & Education
 
 | French | English |
 |---|---|
@@ -103,7 +103,7 @@ This list collects essential French vocabulary used in Section A questions (and 
 
 ---
 
-**Events, Entertainment & Culture**
+## Events, Entertainment & Culture
 
 | French | English |
 |---|---|
@@ -121,7 +121,7 @@ This list collects essential French vocabulary used in Section A questions (and 
 
 ---
 
-**Services & Businesses**
+## Services & Businesses
 
 | French | English |
 |---|---|
@@ -138,7 +138,7 @@ This list collects essential French vocabulary used in Section A questions (and 
 
 ---
 
-**Jobs, Volunteer & Recruitment**
+## Jobs, Volunteer & Recruitment
 
 | French | English |
 |---|---|
@@ -155,7 +155,7 @@ This list collects essential French vocabulary used in Section A questions (and 
 
 ---
 
-**Events Planning & Occasions**
+## Events Planning & Occasions
 
 | French | English |
 |---|---|
@@ -171,7 +171,7 @@ This list collects essential French vocabulary used in Section A questions (and 
 
 ---
 
-**Retail, Sales & Advertising**
+## Retail, Sales & Advertising
 
 | French | English |
 |---|---|
@@ -188,7 +188,7 @@ This list collects essential French vocabulary used in Section A questions (and 
 
 ---
 
-**Sport, Leisure & Outdoors**
+## Sport, Leisure & Outdoors
 
 | French | English |
 |---|---|
@@ -204,7 +204,7 @@ This list collects essential French vocabulary used in Section A questions (and 
 
 ---
 
-**Arts, Media & Creative**
+## Arts, Media & Creative
 
 | French | English |
 |---|---|
@@ -218,7 +218,7 @@ This list collects essential French vocabulary used in Section A questions (and 
 
 ---
 
-**Misc / Other**
+## Misc / Other
 
 | French | English |
 |---|---|

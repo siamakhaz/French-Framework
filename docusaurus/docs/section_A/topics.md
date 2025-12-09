@@ -91,4 +91,3 @@ This file lists all topics found under Section A (Topics) in `TEF-CANADA-Express
 - Magasin Art & Déco
 - Liseuse (achat de liseuse / livres numériques)
 
-*Extracted from `TEF-CANADA-Expression-Oral.md` — Section A (Topics).*
