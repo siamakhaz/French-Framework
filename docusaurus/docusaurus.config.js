@@ -2,13 +2,13 @@
 module.exports = {
   title: 'TEF Oral — Study Guide',
   tagline: 'Section A & B materials for TEF Canada Expression Orale',
-  url: 'https://example.com',
-  baseUrl: '/',
+  url: 'https://siamakhaz.github.io',
+  baseUrl: '/French-Framework/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'you',
-  projectName: 'tef-docs',
+  organizationName: 'siamakhaz',
+  projectName: 'French-Framework',
   presets: [
     [
       '@docusaurus/preset-classic',
