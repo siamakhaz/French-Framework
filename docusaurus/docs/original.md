@@ -7,41 +7,7 @@ sidebar_label: Original source (MD)
 
 Jean K. Mathieu
 
-## Whether you plan to study or work in Canada, this TEF book will help you with the Expression Oral part to improve your overall score.
-
-This book contains more than 150 topics that you might expect at the exam. Both sections are covered in this book (Section A and Section B). It includes handful advice so that you get the most out of this test and succeed.
-
-- 150 topics of TEF test for section A and section B
-- Example sentences for speaking test section A
-- Example sentences for speaking test section B
-- How to do it for each test
-- Common mistakes & tips
-- Vocab list for Oral TEF test
-- 500 words essential vocabulary
-
-To your success!
-
-Jean K. MATHIEU
-
-# TEF EXPRESSION ORALE
-
-# 150 TOPICS TO SUCCEED
-
-_CANADA_
-
-_SECTION A - SECTION B_
-
-Jean K. Mathieu
-
-TEF CANADA EXPRESSION ORALE
-
-150 TOPICS TO SUCCEED
-
-- © Jean K. MATHIEU
-
----
-
-## Also available
+# Also available
 
 - TEF Canada Guide Express - 45min to double your score
 - DELF B2 – Production orale - Méthode complète pour réussir
@@ -54,7 +20,7 @@ TEF CANADA EXPRESSION ORALE
 
 ---
 
-## Sommaire
+# Sommaire
 
 - [Forword](#forword)
 - [About the author](#about-the-author)
@@ -65,7 +31,7 @@ TEF CANADA EXPRESSION ORALE
 
 ---
 
-## Forword
+# Forword
 
 Dear French learners,
 
@@ -81,13 +47,13 @@ Jean K Mathieu
 
 ---
 
-## About the author
+# About the author
 
 Teaching French is my job, and I specialized in pronunciation and exam/interview preparation. For several years, I have helped French learners to succeed the DELF and improve their TEF score, pass interviews with French recruiters or universities, and help French learners to travel in France with more confidence.
 
 ---
 
-## Introduction
+# Introduction
 
 Knowing a lot of vocabulary doesn’t mean that you will get a good score at the TEF exam. You should be ready to take the TEF. Therefore you need to know what the examiners expect from you. They don’t expect you speak fluently however they want you to know some required skills for the level you pretend.
 
@@ -99,7 +65,7 @@ Taking the TEF will not only allow you to check your actual level in French but 
 - practice
 - balance your skills
 
-### Should you take the TEF Canada exam?
+## Should you take the TEF Canada exam?
 
 Taking the TEF allows you to test your knowledge in French from beginner to advanced. This exam has 4 different parts (compréhension orale, compréhension écrite, expression orale, expression écrite)
 
@@ -116,7 +82,7 @@ To apply for Canada immigration, you will need to take these parts:
 - Expression écrite (Writing)
 - Expression orale (Speaking)
 
-### Evaluating system
+## Evaluating system
 
 TEF test is not based on the CEFR levels (unlike the DELF) but it is based on the NCLC that has 12 levels. For example, it is better to get a score of 7 or higher on this level scale if you want to have the chance to work in Canada. Just like the DELF you will need to proof your ability in French (Compréhension orale, compréhension écrite, expression orale, expression écrite).
 
@@ -141,7 +107,7 @@ Maximum score for each part:
 
 Unlike DELF tests the score of the 4 tests is not compensated between each other. Each test must be passed correctly.
 
-### Admission score
+## Admission score
 
 - Express entry (C1 ou C2)
 - Studies: at least 700 points and 14/20 for the writing part
@@ -155,25 +121,25 @@ To get a B2 level you will need this score for:
 
 ### SCORES FOR C1 LEVEL:
 
-### Compréhension Ecrite
+#### Compréhension Ecrite
 
 - 233 - 247 (NCLC: 8)
 - 248 - 262 (NCLC: 9)
 - 263 - 277 (NCLC: 10)
 
-### Compréhension Orale
+#### Compréhension Orale
 
 - 280 - 297 (NCLC: 8)
 - 298 - 315 (NCLC : 9)
 - 316 - 333 (NCLC : 10)
 
-### Expression Ecrite
+#### Expression Ecrite
 
 - 349 - 370 (NCLC: 8)
 - 371 - 392 (NCLC: 9)
 - 393 - 415 (NCLC: 10)
 
-### Expression Orale
+#### Expression Orale
 
 - 349 - 370 (NCLC: 8)
 - 371 - 392 (NCLC: 9)
@@ -181,20 +147,20 @@ To get a B2 level you will need this score for:
 
 ### SCORES FOR C2 LEVEL:
 
-### Compréhension Ecrite
+#### Compréhension Ecrite
 
 278 - 300 (NCLC: 11 à 12)
-### Compréhension Orale
+#### Compréhension Orale
 
 334 - 360 (NCLC: 11 à 12)
-### Expression Ecrite
+#### Expression Ecrite
 
 416 - 450 (NCLC: 11 à 12)
-### Expression Orale
+#### Expression Orale
 
 416 - 450 (NCLC: 11 à 12)
 
-### Quick insight of the tests
+## Quick insight of the tests
 
 ### Compréhension écrite
 
@@ -230,7 +196,7 @@ Given that oral part is often the hardest part (you don’t have time to think a
 
 You will find more about writing skills and language partners later in this book.
 
-### Where to take the TEF Canada?
+## Where to take the TEF Canada?
 
 You can take the TEF Canada in official test centers in Canada and in more than 150 countries:
 https://www.lefrancaisdesaffaires.fr/en/find-a-center/
@@ -239,7 +205,7 @@ As mentioned above the score is valid for two years but the sooner you apply aft
 
 ---
 
-## Section A
+# Section A
 
 ## Type sentences
 
@@ -351,20 +317,17 @@ Example : Location d’une maison :
     garçons dans ma famille qui se disputent à mort...
 
 Organize your questions in a logical order:
-### _Tout d’abord_
-
+_Tout d’abord_
 _, je voudrais savoir..._
 Ensuite _, je me demande si..._
 De plus _..._
 Enfin...
-### _J’ai une dernière question_
-
+_J’ai une dernière question_
 _concernant...._
 
 Connect your questions to the advertisement :
 _il est mentionné (dans l’annonce) que...._ d _onc je voudrais savoir..._
-### _il est indiqué que...._
-
+_il est indiqué que...._
 _, c’est correct_?
 
 
@@ -379,8 +342,6 @@ Narrow down the topic:
 Est-ce qu’il y a des commerces à proximité? Lesquels? Combien?
 De quelle taille? etc.
 
-<a id="common-mistakes-and-false-friends"></a>
-<a id="common-mistakes-and-false-friends-1"></a>
 ## Common mistakes and false friends
 
 Avertissement : une annonce, une publicité
@@ -404,7 +365,7 @@ que voulez-vous dire par « __ »
 
 ## Topics
 
-## Appartement à vendre
+### Appartement à vendre
 ```
 À VENDRE. Au 4e étage d ’ un immeuble ancien en plein centre-ville.
 Appartement rénové et très clair. Beaucoup de charme.
@@ -448,7 +409,7 @@ Standard questions
 - Quels documents dois-je fournir pour le contrat? Dois-je
     payer une caution? Quel est le montant?
 
-## Appartement à louer
+### Appartement à louer
 À 5 min du métro Corentin Celton et des commerces, 2 pièces de 58
 m2 rénové dans un bel immeuble années 30. Situé au 8e et dernier
 étage avec ascenseur comprenant une entrée, salon, salle à manger,
@@ -505,7 +466,7 @@ Standard questions
 - Quelles sont les conditions requises pour louer l’appartement?
 - Faut-il des garants?
 
-## Maison à vendre
+### Maison à vendre
 ```
 BAGNOLS SUR CEZE
 LE DOMAINE DES PINS
@@ -541,7 +502,7 @@ Standard questions
     vous être disponible le week-end pour faire la visite de la
     maison?
 
-## Meubles à vendre
+### Meubles à vendre
 ```
 VENTE- Occasion à saisir – Vends meubles à prix très intéressants –
 Téléphonez vite au 14 543 212
@@ -599,7 +560,7 @@ Standard questions
 - À quelle adresse il est?
 - Est-ce que vous pouvez le livrer si j’habite à la campagne?
 
-## Échange d’appartement
+### Échange d’appartement
 ```
 (75) Paris 12e 3 pièces - De particulier à particulier – Échange
 juillet août 3pièces - 57mètres carré, très bien situé – Lumineux
@@ -654,10 +615,7 @@ Exemple de dialogue
 - Oui, exactement!
 - Bien, et où se trouve votre maison?
 - Elle se trouve près de la mer.
-### Quel est l’état de votre maison
-
-?
-
+- Quel est l’état de votre maison?
 
 - Ah! La maison est un peu vieille, mais elle est grande.
 - Quelle surface fait votre maison? /Quelle est la surface de
@@ -686,7 +644,7 @@ Exemple de dialogue
 - Très bien, je crois que je vais la prendre.
 
 
-## Location de vélo
+### Location de vélo
 ```
 BICYTOUR
 Pour des vacances sereines et détendues,
@@ -727,7 +685,7 @@ Standard questions
     regarder? Quelle est votre adresse? Et quels sont vos horaires
     d’ouverture?
 
-## Musée du Louvre
+### Musée du Louvre
 ```
 S ’ AMUSER AU MUSÉE DU LOUVRE - À LA DÉCOUVERTE DES
 ANIMAUX
@@ -765,7 +723,7 @@ Standard questions
 - Est-ce qu’on peut visiter les autres pièces du Louvre avec le
     billet d’entrée?
 
-## Camp d’été pour enfants
+### Camp d’été pour enfants
 ```
 Été 2020 - Centre de vacances - Pour enfants de 6 à 12 ans
 ```
@@ -795,7 +753,7 @@ Standard questions
 - Combien coûte une saison dans le camp?
 - Que dois-je faire pour inscrire mon enfant?
 
-## La fête des voisins
+### La fête des voisins
 Immeuble en fête - La fête des voisins mardi. Une fête est organisée
 dans l _’_ immeuble. Au programme, apéritif, buffet, musique. Si vous
 êtes intéressé(e), téléphonez-nous au 08 73 21 40 33 Mme Aurore.
@@ -832,7 +790,7 @@ Standard questions
 - Avons-nous besoin de décorer la salle pour la fête?
 
 
-## Atelier Musique et Spectacles
+### Atelier Musique et Spectacles
 ```
 ATELIERS MUSIQUE & SPECTACLES
 Audition
@@ -866,7 +824,7 @@ Standard questions
     une réduction pour eux, et combien ça coûte?
 
 
-## Centre Sport et Forme
+### Centre Sport et Forme
 ```
 45 % des Français se réveillent fatigués, même après une bonne nuit
 de sommeil.
@@ -899,7 +857,7 @@ Standard questions
     se faire rembourser?
 
 
-## Soutien scolaire
+### Soutien scolaire
 ```
 Soutien scolaire ajusté à votre budget
 Vos avantages :
@@ -929,8 +887,9 @@ Standard questions
 - Qu’est ce que mon enfant doit préparer?
 
 
-## Cours
-## Cours de cuisine
+### Cours
+
+#### Cours de cuisine
 ```
 Soirée « COURS DE CUISINE » Animée par notre chef/Nombre de
 places limité à 12 personnes/Informations et inscription par
@@ -974,7 +933,7 @@ Standard questions
     de temps en temps? Je travaille beaucoup et je n’ai pas
     toujours de temps libre.
 
-## Cours de jardinage
+#### Cours de jardinage
 ```
 En octobre et en novembre
 Rendez-vous aux ateliers d ’ automne
@@ -1021,7 +980,7 @@ Standard questions
     vous des brochures?
 
 
-## Cours de Yoga
+#### Cours de Yoga
 ```
 COURS DE YOGA
 Nous vous offrons des cours sur inscription variés qui vous
@@ -1089,7 +1048,7 @@ Standard Questions
 - Y a-t-il des arrêts d’autobus?
 
 
-## S ’ inscrire dans une école de danse
+#### S ’ inscrire dans une école de danse
 Studio de danse BENNET _–_ 7 rue de hourque _–_ Loisirs ou
 compétition _–_ Enfants à partie de 4 ans _–_ Ados/adultes _–_ Hip-hop _–_
 salsa _–_ danse africaine _– Rock’n roll –_ APPELEZ VITE! 06 98 55 73
@@ -1112,7 +1071,7 @@ Standard questions
 - Il y a une station de métro à côté de votre école?
 
 
-## Cours de pilotage
+#### Cours de pilotage
 ```
 Venez vous faire plaisir sur le circuit de Bresse – Testez vos limites!
 Cours de pilotage avec un moniteur professionnel – Sport –
@@ -1138,7 +1097,7 @@ Standard questions
 - Est-ce que vous avez une brochure? Un dépliant?
 
 
-## S ’ inscrire à des cours des langues étrangères
+#### S ’ inscrire à des cours des langues étrangères
 Apprenez une langue étrangère!
 En soirée, de 19 heures à 21 heures, en semaine (hors congés)
 ```
@@ -1172,7 +1131,9 @@ Standard questions
     japonais. Enseignez-vous le japonais?
 
 
-## Cours de journalisme
+#### Cours de journalisme
+
+
 ```
 Licence Professionnelle – formation sur 9 mois – Journaliste
 multimédias – École supérieure de journalisme de Lille
@@ -1204,7 +1165,8 @@ Standard questions
     web?
 
 
-## Hôtel Méribourg
+### Hôtel Méribourg
+
 ```
 Hôtel Méribourg - Manoir des Neiges
 Forfait ski d’1 nuitée 1 petit-déjeuner 1 journée de ski au Mont
@@ -1279,7 +1241,11 @@ Standard questions
     y a une réduction?
 - Merci, vous êtes aimable, je vais réfléchir, au revoir.
 
-## Thalasso en Tunisie
+
+
+### Thalasso en Tunisie
+
+
 ```
 THALASSO EN TUNISIE
 Hôtel Mourad Hammamet 5 étoile
@@ -1313,7 +1279,7 @@ Standard questions
 - Bon, j’ai noté. Merci beaucoup. je vous rappellerai bientôt
     j’espère. Au revoir.
 
-## Location de voiture
+### Location de voiture
 LOCATOUR
 _Vous voulez voyager à l’étranger? Vous n’avez pas de voiture_! Vous
 souhaitez bénéficier de prix intéressants?
@@ -1341,7 +1307,7 @@ Standard questions
 - On peut doter la voiture d’un siège auto bébé? On en a besoin
     de deux!
 
-## Star Med Vacances
+### Star Med Vacances
 ```
 Star Med VACANCES/Espagne Villas et appartements/
 Proches de la mer/Villas avec piscine privée à partir de 300
@@ -1387,7 +1353,7 @@ Standard questions
 - Merci, je vais réfléchir, je vous rappellerai. Au revoir.
 
 
-## Vacances Joker
+### Vacances Joker
 ```
 VACANCES JOKER
 10 % à 25 % Sur un grand choix de LOGEMENTS À LOUER,
@@ -1417,7 +1383,7 @@ Standard questions
     ce que c’est bien desservi?
 
 
-## Concours de chanson
+### Concours de chanson
 ```
 CONCOURS ORGANISÉ PAR LA VILLE DE SAINT-CLOUD ET
 LE FESTIVAL SEINE DU ROCK
@@ -1452,7 +1418,7 @@ Standard questions
     revoir.
 
 
-## Recherche des acteurs figurants
+### Recherche des acteurs figurants
 ```
 [Spectacle]
 La Compagnie ciné-art recherche des acteurs figurants, hommes et
@@ -1493,7 +1459,7 @@ Standard questions
 - Si je participe au spectacle, ma famille, ils voudront venir voir
     la comédie, est-ce que ce sera gratuit pour eux?
 
-## Garde d ’ enfants
+### Garde d ’ enfants
 ```
 Lausanne, Centre/rue centrale.
 Cherche JF/JH expérimenté pour s ’ occuper de deux enfants (7 et
@@ -1520,7 +1486,7 @@ Standard questions
 - Si vous me choisissez, est-ce on signera un contrat?
 
 
-## Recherche baby-sitter
+### Recherche baby-sitter
 ```
 Ville : Bordeaux
 Département : 33
@@ -1551,7 +1517,7 @@ Standard questions
 - Quel est le salaire horaire? Tarif net ou brut?
 
 
-## Offre d’emploi. Garde d’animaux
+### Offre d’emploi. Garde d’animaux
 ```
 Recherche personne sérieuse pour garder animaux de compagnie
 pendant les vacances. Salaire intéressant.
@@ -1583,7 +1549,7 @@ Standard questions
 voisinage de la maison?
 
 
-## Garde d’animaux
+### Garde d’animaux
 ```
 Nous nous occupons de vos animaux pendant votre absence!
 Surveillance, sortie, garde
@@ -1609,7 +1575,7 @@ Standard questions
 - Quelles sont les personnes qui vont s’occuper de mon chien?
 
 
-## Gardiennage de maison
+### Gardiennage de maison
 ```
 Vous partez en vacances et vous recherchez une personne pour
 garder votre domicile? Vous avez trouvé le gardien qu ’ il vous faut!
@@ -1638,7 +1604,7 @@ Standard questions
 
 
 ```
-Emprunter un ordinateur
+### Emprunter un ordinateur
 Vos moyens ne vous permettent pas de vous équiper en
 informatique?
 Notre association peut vous prêter un ordinateur pour vous
@@ -1673,7 +1639,7 @@ Standard questions
 
 
 ```
-C œ ur de cible
+### C œ ur de cible
 Votre partenaire idéal pour organiser un mariage
 original et réaliser le plus beau jour de votre vie!
 Dites-nous vos rêves et vos envies, même les plus fous!
@@ -1702,7 +1668,7 @@ Standard questions
 
 
 ```
-DJ Clément
+### DJ Clément
 Vous souhaitez organiser une soirée mémorable?
 Vous recherchez un DJ professionnel pour enflammer la piste de
 danse?
@@ -1738,7 +1704,7 @@ Standard questions
 
 
 ```
-Privatisation d’un restaurant pour événements
+### Privatisation d’un restaurant pour événements
 ```
 ```
 Nous nous faisons une joie de vous accueillir pour une privatisation
@@ -1787,7 +1753,7 @@ Standard questions
 
 
 ```
-Devenez bénévole
+### Devenez bénévole
 ```
 ```
 Aidez-nous à fêter le Nouvel An!
@@ -1817,7 +1783,7 @@ Standard questions
     Par exemple des CD, la sono?
 
 
-Engager un photographe professionnel
+### Engager un photographe professionnel
 Photographe professionnel pour mariages.
 Souvenez-vous longtemps de ce jour unique!
 Je réalise le reportage photos et les portraits de votre mariage le jour J
@@ -1849,7 +1815,7 @@ Standard questions
 
 
 ```
-Orchestre
+### Orchestre
 ```
 ```
 Vous êtes à la recherche d’un orchestre haut de gamme pour animer
@@ -1886,13 +1852,13 @@ Standard questions
 More topics
 
 ```
-Traiteur
+### Traiteur
 Colibri Événements – colibri.eve.free.fr
 Mariages – Baptêmes – Soirées – Anniversaires – Communions
 Devis gratuit. 06.29.58.87.31
 ```
 ```
-Emploi pour professeur de langues étrangères
+### Emploi pour professeur de langues étrangères
 SCOLA, école de langue, cherche prof à LYON
 Rémunération attractive.
 Horaires des cours particuliers :
@@ -1900,7 +1866,7 @@ Horaires des cours particuliers :
 scola.com
 ```
 ```
-Randonnée cycliste
+### Randonnée cycliste
 Randonnée cycliste écocitoyenne Départ du Salon NATURE
 15 nov. à 10h Inscription préalable 30 personnes au maximum
 Randonnée ouverte aux familles et sportifs Circuit 20km Visite
@@ -1909,12 +1875,12 @@ salon Nature Conférence : « Alternative aux pesticides » Mr Griffon,
 Directeur du Lycée Horticulture de Tarbes
 http://www.nature-ecosystemes.com Tel : 06 10 24 15 90
 ```
-Rando Loisirs
+### Rando Loisirs
 Itinéraires de week-end - Circuits de 3 à 5 jours - Tous les niveaux de
 difficulté - Groupes de 8-12 personnes - accompagnés d _’_ un guide
 
 ```
-Devenez bénévoles (offrez votre temps libre !)
+### Devenez bénévoles (offrez votre temps libre !)
 Devenez bénévoles
 Offrez votre temps libre! Certains enfants de votre quartier ont
 besoin d ’ aide pour faire leurs devoirs après la classe. Venez
@@ -1924,7 +1890,7 @@ contact@benevolat.com
 ```
 
 ```
-Achat de lunettes
+### Achat de lunettes
 Achetez vos lunettes en ligne! Lunettes de vue ou lunettes solaires.
 Commandez vos lunettes en 4 étapes :
 ```
@@ -1936,14 +1902,14 @@ La qualité au meilleur prix. Satisfait ou remboursé. Livraison offerte.
 _Plus d’infos_ : 820 12 12 546
 
 ```
-Dîner
+### Dîner
 Votre soirée dansante sur péniche LA DESIRADE
 Parking gratuit 1000 m2
 Sono, lumière disco, vidéo système, bar - Piste de danse, terrasse,
 salons - En navigation ou à quai - 05 62 75 01 38
 ```
 ```
-Cours de conduite
+### Cours de conduite
 Cours de conduite automobile
 Par Moniteur auto-école indépendant
 1h/35 € 
@@ -1952,7 +1918,7 @@ Par Moniteur auto-école indépendant
 florentautodrive@free.fr
 ```
 ```
-Faites décoller votre carrière
+### Faites décoller votre carrière
 Faites décoller votre carrière à l’international!
 Apprenez l’anglais, l’allemand ou une autre langue
 Cours tous niveaux. Prix très compétitifs.
@@ -1962,7 +1928,7 @@ LINGUAPRO – L’école des langues pour les professionnels
 
 
 ```
-Zumba
+### Zumba
 Life & Coach – Nouveauté – ZUMBA
 Restez en forme tout en dansant
 À partir du 15 décembre 2020, profitez des cours de Zumba chez
@@ -1972,12 +1938,12 @@ Contact/informations – contact@lifeandcoach.com 0478515217 –
 http://www.lifeandcoach.com
 ```
 ```
-Cours de pâtisserie
+### Cours de pâtisserie
 Cours de pâtisserie et chocolaterie à domicile – Un chef diplômé à
 domicile – 50 % crédit d’impôt – patisware.fr – tél. 06 99 55 19 74
 ```
 ```
-Destination soleil Week-ends à petits prix
+### Destination soleil Week-ends à petits prix
 Destination soleil Week-ends à petits prix Barcelone Rome
 Nombreux cadeaux à gagner!
 ```
@@ -1991,7 +1957,7 @@ Informations : Permanence : bureau du CRULH, le lundi de 12h30 à
 13h45. Internet : histoiredenfaire.free.fr
 
 ```
-Croisière D ’ orient
+### Croisière D ’ orient
 À partir de 829 euros par personne
 La Méditerranée s ’ offre à vous
 sous un autre regard. Laisse- vous transporter dans le plus grand
@@ -2002,7 +1968,7 @@ Renseignement : 089 786 5 657
 ```
 
 ```
-Concours de scénarios de courts métrages
+### Concours de scénarios de courts métrages
 Dossiers d’inscription au secrétariat du CÉCI - Centre d ’ écriture
 cinématographique : (514) 810-2223 ou sur http://www.ceci.asso.ca
 À renvoyer au plus tard le 18 septembre.
@@ -2015,14 +1981,14 @@ Du 3e au 8e PRIX
 Un atelier d ’ écriture d ’ une semaine
 ```
 ```
-Hammamet
+### Hammamet
 Hammamet, Tunisie 8 - 16 sept, 2289 dollars,
 Occupation double Rés. Avant 1er avril, vue sur mer
 Thalassothérapie,
 Incluant petit-déjeuner, souper, vols,
 transferts, taxes, sac de voyage. Vacances Michel Demers
 ```
-Choix des comédiens pour un rôle secondaire
+### Choix des comédiens pour un rôle secondaire
 Enfant pour tournage long métrage avec Olivier Gourmet
 Dans le cadre du tournage d _’_ un long métrage intitulé « Terre
 battue » avec Olivier Gourmet, nous sommes à la recherche d _’_ un
@@ -2038,19 +2004,19 @@ de votre book en ligne sur casting.fr.
 
 
 ```
-Voyages culturels sur les cinq continents
+### Voyages culturels sur les cinq continents
 Voyages culturels sur les cinq continents Circuit - séjours -
 escapades Programme en formule tout compris - Transports aériens
 sur vols réguliers - Option Remboursement Annulation sans
 condition - Voyages accompagnateurs et guides locaux.
 ```
 ```
-DIFC Informatique
+### DIFC Informatique
 DIFC Informatique – Dépannage & formation à domicile –
 difc.free.fr –
 09 52 74 99 58
 ```
-Voyages de noces
+### Voyages de noces
 Promotion sur les voyages de noces
 Du 15 au 22 mars, votre agence vous propose une semaine de rêve
 en Martinique.
@@ -2063,14 +2029,14 @@ _d’une réduction de 50_ % sur le prix du billet d _’_ avion. Attention ; ce
 offre est valable au maximum 6 mois après la date du mariage.
 
 ```
-Chasse au trésor
+### Chasse au trésor
 Pour toute la famille! Venez entre amis. Amusant et enrichissant!
 Nombreux prix à gagner! Plusieurs jeux. Une dizaine d ’ itinéraires.
 Boussole fournie. 15 % de réduction pour les groupes.
 Renseignements : 4189957800
 ```
 ```
-Circuits en traîneau à chiens.
+### Circuits en traîneau à chiens.
 Circuits en traîneau à chiens dans le nord du Québec.Vivez une
 expérience inoubliable! Paysages blancs magnifiques. Hébergement
 et forfaits. Autres activités dans le programme. Visitez notre site
@@ -2079,7 +2045,7 @@ maintenant! 416 980 9000
 ```
 
 ```
-Devenez exposant dans notre brocante
+### Devenez exposant dans notre brocante
 La brocante est ouverte à tous les particuliers, tous les samedis et
 dimanches. Uniquement sur réservation préalable. Coût des
 emplacements selon la taille. Informations complémentaires au
@@ -2087,26 +2053,26 @@ emplacements selon la taille. Informations complémentaires au
 0167220099. Réservation sur [http://www.mabrocante.com](http://www.mabrocante.com)
 
 ```
-Faites la tournée des bars avec notre vélo géant!
+### Faites la tournée des bars avec notre vélo géant!
 Une activité originale pour toutes les occasions entre amis ou en
 famille. En journée ou le soir. Réservation obligatoire. Nombre de
 places limité. Renseignements info@velofestifmtl.com
 ```
 ```
-Spectacle
+### Spectacle
 Faites une expérience mémorable : un spectacle de haut vol avec nos
 artistes chevronnés. Nouveau spectacle de cirque en chapiteau à
 Montréal. De juin à octobre. Achetez vos billets dès maintenant au
 555 - 434 - 000
 ```
 ```
-Ferme aux crocodiles
+### Ferme aux crocodiles
 Une sortie amusante et enrichissante pour toute la famille.
 À découvrir sur place : - plus de 350 crocodiles - un espace de 8
 hectares - différents milieux naturels. Accès facile. La ferme aux
 crocodiles est ouverte toute l ’ année. Téléphoner au 415 459 2678
 ```
-Festival Océan Climax
+### Festival Océan Climax
 Vous aimez la musique? Vous voulez participer à la protection des
 océans et du climat? Rejoignez-nous. Du 10 au 13 septembre
 prochain. - Large programmation musicale - Débats avec des
@@ -2115,87 +2081,87 @@ Billets à la journée ou Pass 4 jours - Actions de préservation de
 _l’environnement. Réservations sur_ : [http://www.oceanclimax.ca](http://www.oceanclimax.ca)
 
 ```
-L ’ Office du tourisme
+### L ’ Office du tourisme
 vous propose des excursions nocturnes découvrez la nature de nuit
 animaux, bruits, étoiles. Baladez-vous en forêt avec un guide certifié.
 Renseignements et réservations au 541265 9890
 ```
 
 ```
-Le Club des Téléspectateurs
+### Le Club des Téléspectateurs
 Assister comme public à des émissions de télé. Venez voir vos
 animateurs et célébrités favoris. Courez la chance de gagner nos
 nombreux prix offerts! Pour participer, téléphonez-nous au
 5147880912
 ```
-Location de vélos électriques.
+### Location de vélos électriques.
 Durée des balades ajustable. Accompagnateurs qualifiés. Itinéraires
 _«_ nature et patrimoine » Retrouvez les joies d _’_ une balade dans la
 nature sans effort.
 VÉLEC 5416789800
 
-Location de bateau
+### Location de bateau
 Louer un bateau pour organiser vos fêtes. Composer des événements
 selon vos envies et votre budget! Petits et gros bateaux. Nombreux
 circuits disponibles [http://www.locabato.net](http://www.locabato.net)
 
 ```
-Location d’un château
+### Location d’un château
 Louer un château pour votre mariage. Organisation des réceptions,
 cocktails, mariage, hébergement sur place disponible.
 Faites votre réservation 541 650 5555
 ```
 ```
-Observatoire Planétarium
+### Observatoire Planétarium
 Conférences pour jeunes et adultes. Observations nocturnes.
 Observations du soleil. Activités libres et gratuites! Infos et
 réservation au 4382021818
 ```
 ```
-Forum social
+### Forum social
 Participez au prochain forum social! Il est temps de vous inscrire
 aux activités et aux conférences. De nombreux outils permettront de
 faire entendre votre voix. Professeurs invités de renom. Inscriptions
 au 555.6789. 1234
 ```
 
-Vivre au Moyen-Âge
+### Vivre au Moyen-Âge
 Venez vivre une journée au Moyen-Âge, au temps des châteaux forts!
 _Notre centre d’interprétation du milieu du Moyen_ - Âge vous accueille
 du lundi au dimanche. Possibilité de réserver en groupe pour les
 _écoles. Plus d’informations au 555_ - 223 - 332
 
 ```
-Verrerie
+### Verrerie
 Verrerie d ’ Art-atelier de fabrication ouvert au public. Sur place,
 découvrez : Un espace boutique et réparation de vos objets en verre.
 Des visites de l ’ atelier avec des professionnels. Des stages
 d ’ initiation pour enfants et adultes. Renseignez-vous en téléphonant
 au 4156678889
 ```
-Loca Costumes
+### Loca Costumes
 Pour une occasion spéciale, louez au lieu d _’_ acheter. Toutes les tailles
 Homme/Femme. Grandes marques. [http://www.locacostumes.com](http://www.locacostumes.com)
 
 ```
-Cours de bricolage
+### Cours de bricolage
 Apprenez à tout faire vous-même - Rénover, Réparer, Démonter -
 Faites des économies - Cours débutant ou expérimenté –
 Pour plus de renseignements http://www.coursdebricolage.com
 ```
-Découvrez tous nos cours **_d’œnologie_**!
+### Découvrez tous nos cours **_d’œnologie_**!
 Notre école propose : - des formules dégustations - des forfaits repas
 et vins - des rencontres avec de grands chefs - une visite du
 vignoble.
 Coordonnées et tarifs au 555- 754 - 7455
 
 ```
-Studio - Café
+### Studio - Café
 Studio de peinture et café-restaurant. 5 succursales dans la province.
 De 10h à 23h. Plus d’informations au 555 - 876 - 6789
 ```
 ```
-Des Filles et des Garçons
+### Des Filles et des Garçons
 Agence de mannequins pour enfants recherche des modèles pour des
 projets (photos, publicité). Professionnalisme & sérieux. Activités
 ponctuelles ou régulières. Projets variés. Ambiance familiale
@@ -2203,45 +2169,45 @@ http://www.fillesetgarcons.com
 ```
 
 ```
-Professeur de langue
+### Professeur de langue
 École privée recherche des professeurs de langue. Disponibilité
 immédiate. Expérience exigée. Moins de 35 ans. Prêt à travailler les
 week-ends. Contacter le 01.44.09.25.32 Appelez le numéro pour
 obtenir plus d’informations.
 ```
 ```
-Allô P ’ tit Déj
+### Allô P ’ tit Déj
 Livraison de petits-déjeuners à domicile ou en entreprise. Grand
 choix de formules classiques. Petits-déjeuners personnalisés.
 Nouveauté : Le P ’ tit Déj bio! Renseignez-vous et passez vite votre
 commande au 087788956
 ```
 ```
-Baby-sitting canin
+### Baby-sitting canin
 Association recherche personnes pour garder des chiens - Bonne
 rémunération - Travail facile - Compatible avec une autre activité
 renseignez-vous au 405 276 7450
 ```
-Centre de Recyclage Universel
+### Centre de Recyclage Universel
 Nous recyclons et réparons de vieux objets Nous récupérons tout type
 d _’_ objet comme le métal, le plastique, le verre. Nous nous déplaçons
 pour les dons. Appelez-nous au 650 850 3570
 
 ```
-Espace de stockage
+### Espace de stockage
 Louer un espace de stockage dans votre ville. Laissez-nous nous
 occuper de vos biens et ayez l ’ esprit tranquille! Profitez de nos
 nombreux locaux et de nos tarifs compétitifs. Sécurité assurée
 Service de transport offert.
 ```
 ```
-Magasin Art & Déco
+### Magasin Art & Déco
 Halloween? Saint-Valentin? Anniversaire? Chic décor. Décoration
 d ’ intérieur pour personnaliser vos fêtes! Évaluation rapide et travail
 soigné. Devis gratuit. http://www.magazine-artdeco.com
 ```
 
-Une liseuse ou quatre kilos de livres?
+### Une liseuse ou quatre kilos de livres?
 Voyagez léger!
 Téléchargez de nombreux livres numériques grâce à une grande
 capacité de stockage.
@@ -2250,14 +2216,12 @@ capacité de stockage.
 - grand confort de lecture
 - large choix de livres
 Liseuse 1000 livres en 1 seul : 99,90 _€_
-
-
-## Section B
-<a id="section-b"></a>
-
 ```
-What you are asked to do?
-```
+
+# Section B
+
+## What you are asked to do?
+
 The examiner will first give you a document. You will be able to look
 at it for 1 minute to prepare arguments. The examiner will play the role
 of a friend of yours that you have to convince for 10 minutes.
@@ -2266,17 +2230,18 @@ therefore it is necessary to use the informal “tu”.
 You will first introduce the document to your “friend” and
 then try to convince him or her.
 
-Example:
+### Example:
+
 Vous avez lu cette publicité pour un circuit touristique au Québec.
 Vous en parlez à un(e) ami(e) qui cherche une idée pour ses vacances.
 Présentez-lui ce document. Essayez de le (la) convaincre de faire ce
 voyage avec vous. (l’examinateur joue le rôle de votre ami(e))
 
-```
+
 Québec – Circuit
 Tour du Québec
 8 jours/7 nuits en pension complète à 300 $.
-```
+
 - Hébergement en hôtel ***
 - Circuit en autocar climatisé
 - Multiples activités, visites, excursions
@@ -2293,9 +2258,8 @@ to develop your arguments and counter your friend’s arguments.
 
 ## Type sentences
 
-```
 Présentation
-```
+
 _Salut mon ami, j’ai une bonne nouvelle pour toi aujourd’hui_ / _j’ai_
 trouvé qqc qui va t _’_ intéresser.
 _J’ai vu une annonce/publicité dans le journal et dès que je l’ai lue,
@@ -2303,16 +2267,15 @@ j’ai pensé à toi._
 Une annonce sur/à propos de/concernant qqc qui s _’_ appelle » _..._ «
 Une annonce qui propose de __
 Un article qui parle de __
-### _Il s’agit de....._
+_Il s’agit de....._
 
 (present the document)
 _J’ai vu quelque chose de très intéressant_
 Est-ce que tu veux en savoir plus? Q _u’est_ - _ce que t’en penses_?
 _Qu’est_ - _ce que t’en penses_? _Qu’en penses_ - tu?
 
-```
 Interaction
-```
+
 Please pay attention that during your debate you have a
 a logical structure
 arguments
@@ -2328,17 +2291,14 @@ Enfin,..._
 In order to use more argumentative words, you must first accept
 the argument of the other party, then develop yours:
 
-### _C’est vrai,_
+_C’est vrai,_
 
 _c’est cher_ , mais on peut payer en plusieurs fois.
 - Certes _, c’est cher,_ néanmoins, on peut payer en plusieurs fois
 - Bien que ce soit cher, on a la possibilité de payer en plusieurs
     fois
-
-
 or
-
-### _C’est vrai que_
+_C’est vrai que_
 
 __ néanmoins__
 - Tu as raison sur ce point, cependant__.
@@ -2424,7 +2384,6 @@ Attention :
 Les gens (pluriel)
 Tout le monde (singulier)
 
-<a id="useful-vocab"></a>
 ## Useful vocab
 
 dash (-) : tiret
@@ -2434,7 +2393,6 @@ www : 3 w
 Sur Internet, à la télé, sur Internet, à la radio, dans le journal, par email
 
 
-<a id="topics-1"></a>
 ## Topics
 
 Here is a list of topics that you can use to practice. These are the kinds
@@ -2442,9 +2400,8 @@ of topics you can expect at the exam.
 Take each sentence/argument and try to have an answer using the
 techniques and structures mentioned above.
 
-```
-Échangez votre logement pour les vacances!
-```
+### Échangez votre logement pour les vacances!
+
 Vous avez lu cet article dans un journal.
 Vous en parlez à un(e) ami(e).
 Présentez-lui ce document ;
@@ -2498,7 +2455,7 @@ vision, l ’ ouïe ou le toucher?
 - On ne peut pas voir l’état de propreté de la salle, des couverts.
 
 
-Faites de belles rencontres
+### Faites de belles rencontres
 Rencontrez des célibataires sur notre site de rencontre!
 _Trouvez l’amour sur notre site_
 Nos membres sont à la recherche de belles histoires et nous mettons
@@ -2522,9 +2479,8 @@ tout en _œuvre pour leur permettre de les_ vivre.
     façon.
 
 
-```
-Un premier vol en « ballon libre » 
-```
+### Un premier vol en « ballon libre » 
+
 Un premier vol en « ballon libre » est toujours une expérience
 inoubliable
 Vivez un moment fort en sensations! Découvrez notre patrimoine
@@ -2552,9 +2508,8 @@ magnifiques! Pour en savoir plus : info@montgolfiere.com
     fois, on ne peut pas voir tous les châteaux et les paysages?
 
 
-```
-Chantiers de fouilles
-```
+### Chantiers de fouilles
+
 Vous aimez l _’_ histoire ancienne? Vous vous intéressez aux origines des
 cultures?
 Dans de nombreuses régions, des chantiers de fouilles permettent de
@@ -2576,9 +2531,8 @@ Contactez -nous au 0806252457
 - Je n’aime pas trop les activités de groupe.
 
 
-```
-Don votre sang
-```
+### Don votre sang
+
 Vous pouvez donner votre sang :
 Si vous avez entre 17 et 70 ans (pas de premier don après 70 ans)
 Si vous pesez au moins 50 kg
@@ -2606,15 +2560,11 @@ prélèvement du sang s _’_ effectue avec un matériel stérile à usage uniqu
     (tests de médicament, recherche génétique)
 - Je pèse moins de 50 kg.
 
-```
-Découvrir le musée des beaux-arts
-```
-```
+### Découvrir le musée des beaux-arts
 Nocturnes du vendredi. Découvrir le musée des beaux-arts
 autrement. Accès gratuit au musée pour les moins de 26 ans, de 18h
 à 21h45.
 Ce vendredi de 18h30 à 21h30 :
-```
 - Rencontre avec les copistes dans les salles du musée 18h30.
 - Découverte des techniques artistiques. Atelier mosaïque 19h.
 - Visite d _’_ exposition. Trésors antiques, bijoux royaux 20h.
@@ -2634,9 +2584,8 @@ Musée des beaux-arts
 - Je préfère aller au cinéma, c’est beaucoup plus amusant. Au
     musée, j’ai peur de m’ennuyer.
 
-```
-Sortir à Laval
-```
+### Sortir à Laval
+
 L _’_ association « Les beaux masques » organise deux soirées par an où
 se retrouvent tous les Québécois branchés en quête de nouveauté. La
 fête, obligatoirement déguisée et payante, se passe dans un endroit
@@ -2657,9 +2606,8 @@ vos déguisements!
 - Je ne bois pas d’alcool.
 
 
-```
-Vacances sur un bateau
-```
+### Vacances sur un bateau
+
 MANNESSIER
 Le bonheur en bateau. Sur toutes les voies navigables de Québec. De
 très belles régions à découvrir, des dizaines d _’_ itinéraires à parcourir
@@ -2678,9 +2626,8 @@ spéciales sur : [http://www.mannessier.ca](http://www.mannessier.ca) _–_ MANN
 - J’ai peur de tomber à l’eau et je ne sais pas nager.
 - Ma mère ne sera pas d’accord que j’y aille
 
-```
-L ’ Aconcagua
-```
+### L ’ Aconcagua
+
 L ’ Aconcagua (6959 m) argentine 23 jours dont 11 à pied. Une façon
 originale de découvrir les Andes et ses paysages à couper le souffle
 4 à 7h de marche et 9h le jour de l ’ assaut final!
@@ -2705,9 +2652,8 @@ Prix par personne du 30/07 au 21/08 environ 1500 €.
     pas l’espagnol.
 - 23 jours, c’est dur si on ne s’entend pas avec tout le monde.
 
-```
-Croisières d ’ exploration
-```
+### Croisières d ’ exploration
+
 CROISIÈRES D _’_ EXPLORATION
 Il n _’_ y a pas d _’_ âge pour devenir explorateur.
 Partir pour des territoires peu explorés, où la nature est restée intacte.
@@ -2739,13 +2685,10 @@ explorateurs norvégiens/Accompagnateurs et conférenciers français.
 - Les croisières, pour moi, sont synonymes du soleil, des
     baignades et des fêtes.
 
-```
-Croisières en bateau
-```
-```
+### Croisières en bateau
 Croisière en bateau - Voyages de groupes en péniche
 +32 (0) 4 79 56 91 16 - info@croisières.com
-```
+
 Standard questions
 
 - Je suis trop indépendante pour partir en groupe.
@@ -2762,9 +2705,8 @@ Standard questions
 - Les repas dans les hôtels sont souvent sans saveur.
 
 
-```
-Riviera Maya
-```
+### Riviera Maya
+
 BLUE BAY GRAND ESMERALDA
 Prix à partir de 1198 $
 Propriété de luxe sur le modèle d _’_ un ancien village maya.
@@ -2792,9 +2734,8 @@ une réduction exceptionnelle.
     travail
 
 
-```
-Donner des cours à domicile
-```
+### Donner des cours à domicile
+
 Donnez des cours à domicile est une bonne solution si vous cherchez
 _à gagner quelques centaines d’euros supplémentaires avec des_
 horaires de travail flexibles.
@@ -2822,8 +2763,7 @@ Convaincre un ami de donner des cours à domicile
 - J’ai un programme très chargé.
 
 
-```
-Audiovisuel
+### Audiovisuel
 URGENT
 Société de production sérieuse et reconnue recherche un bébé de
 moins d ’ un an
@@ -2832,7 +2772,7 @@ Travail rémunéré à la journée, frais pris en charge.
 Tournage 1 ou 2 jours seulement.
 Possibilité de s ’ inscrire pour d ’ autres tournages...
 Production PADDY. 06 03 92 41 35
-```
+
 - Mais mon bébé est enrhumé maintenant.
 - Ils mettent les éclairages très forts, ce n’est pas bon pour les
     yeux de bébé.
@@ -2841,7 +2781,7 @@ Production PADDY. 06 03 92 41 35
 - Je pense que mon mari/ma femme ne sera pas d’accord.
 - Je travaille, je ne peux pas me libérer.
 
-Commerce électronique
+### Commerce électronique
 Convertissez-vous au commerce sur Internet Rapidité et sécurité.
 Toujours plus de sites marchands, toujours plus de choix! Qualité et
 économies. Notre guide « acheter en ligne » sélectionne pour vous les
@@ -2863,10 +2803,8 @@ Essayer de convaincre votre ami de faire ses achats sur Internet.
 - Il est impossible de poser des questions.
 - Contester la commande en cas de problème est très compliqué.
 
-```
-Arrêter de fumer
-```
-```
+### Arrêter de fumer
+
 Et si je m ’ arrêtais de fumer une bonne fois pour toutes...!
 Redécouvrez la vraie vie, les goûts, les odeurs, une pleine forme,
 un teint éclatant
@@ -2877,7 +2815,7 @@ Notre méthode
 Téléphonez au centre « NICOSTOP » 01 87 44 71 00
 1, rue Desve 92200 NEUILLY-SUR-SEINE
 Ne réfléchissez plus : quelle économie!
-```
+
 Convaincre un ami d’arrêter de fumer avec une nouvelle méthode
 
 - Mais je ne fume pas beaucoup.
@@ -2898,7 +2836,7 @@ Convaincre un ami d’arrêter de fumer avec une nouvelle méthode
     de suivi?
 - Ça doit être très cher, les 6 mois de suivi sont sûrement chers.
 
-Covoiturage
+### Covoiturage
 Moins de CO2, partagez, économisez! Soyez plus malin!
 Pour vos sorties et les trajets quotidiens, pensez au covoiturage. Les
 avantages sont nombreux. Le covoiturage est la solution pour
@@ -2920,9 +2858,9 @@ Rendez-vous sur covoiturage.fr
     durée du trajet.
 
 
-More topics
+## More topics
 
-McPlacement
+### McPlacement
 Participez aux « rencontres express » de l _’_ emploi!
 Envoyer votre CV dans un anonyme bureau des ressources humaines
 vous semble trop impersonnel?
@@ -2934,9 +2872,8 @@ votre profil professionnel. Succès assuré!
 Pour connaître les dates de nos rencontres. Contactez-nous :
 emploi@successdating.com
 
-```
-L’a spect positif des jeux vidéo
-```
+### L’a spect positif des jeux vidéo
+
 Jouez avec votre santé! /Les jeux vidéo ont des bienfaits, mais ils
 sont peu connus. De nombreux spécialistes reconnaissent qu ’ ils
 développent les réflexes, le sens de l ’ observation, la logique, et dans
@@ -2944,23 +2881,21 @@ certains jeux, l ’ organisation, la stratégie et l ’ esprit de synthèse. I
 sont également utilisés depuis peu dans certains hôpitaux pour lutter
 contre l ’ obésité des jeunes et aider à la rééducation des patients
 après une fracture du bras ou de la main!
-```
-Faites-vous plaisir, allez à la pêche!
+
+### Faites-vous plaisir, allez à la pêche!
 Du pêcheur en herbe à l ’ expert, chacun y trouve son plaisir!
 Ressourcez-vous, détendez-vous dans la bonne humeur et en pleine
 nature.
 Emmenez aussi les copains de vos enfants, ce sera encore plus
 sympa! À la pêche, les journées passent trop vite!
-```
 
-```
-Aidez un jeune dans sa scolarité
+### Aidez un jeune dans sa scolarité
 Aidez un jeune dans sa scolarité avec l ’ association Espoir et
 Entraide Scolaire. Accompagnement à la scolarité
 Lundi, mardi, jeudi, vendredi Primaire 17h- 18 h Secondaire 18h-
 19h30
-```
-Club du rire
+
+### Club du rire
 Un Club de Rire est un groupe de personnes qui se réunissent autour
 d _’_ un animateur pour rire ensemble ; Yoga du rire, c _’_ est une thérapie
 par le rire.
@@ -2968,7 +2903,8 @@ Une séance de « Rire sans Raison » consiste en une série d _’_ exercices
 de rire inspirés du yoga,.
 Le concept du Club de Rire est très simple et accessible à tous.
 
-Agir, c **_’_** est facile!
+### Agir, c **_’_** est facile!
+
 Chaque année, 20 % d _’_ une génération sort du système scolaire sans
 qualification, 40 % dans certains quartiers.
 Pour agir concrètement contre les inégalités, nous avons besoin de
@@ -2978,42 +2914,37 @@ son parcours. Chaque année, 7000 étudiants bénévoles agissent avec
 l _’_ AFEV dans les quartiers. Rejoins-nous! Il suffit d _’_ être étudiant et
 de disposer de deux heures par semaine.
 
-```
-Meubles en carton
+### Meubles en carton
 Karton Design va faire un carton dans votre salon!
 Karton Design est une société spécialisée dans la création de
 mobilier en carton, recyclable et beaucoup moins toxique que les
 meubles en kit. Écologique, robuste, léger et durable! La société
 fabrique de tout pour meubler votre maison : des étagères, des
 bureaux, des lampes et même des horloges. Jugez par vous-même.
-```
 
-De la théorie à la pratique
+### De la théorie à la pratique
 Que vous soyez un conducteur débutant ou avec beaucoup
 d _’_ expérience, nous avons le cours adapté à vos besoins. Nos
 instructeurs vous soutiennent afin d _’_ obtenir plus de sécurité au
 volant. Nous rafraîchissons vos connaissances théoriques et ne vous
 laissent pas déraper sur le verglas. Découvrez les divers cours.
 
-```
-Louez votre maison pour un tournage!
+### Louez votre maison pour un tournage!
 Vous cherchez à augmenter vos revenus facilement? Louez votre
 maison ou votre appartement! Des producteurs, des publicitaires
 recherchent tout type de logement, pour tourner leurs films. Votre
 logement peut les intéresser! Très peu de conditions sont exigées.
 Une journée de tournage peut vous rapporter beaucoup sans aucun
 désagrément.
-```
-```
-Voyage en montgolfière
+
+### Voyage en montgolfière
 Alpes de Haute Provence
 Évadez-vous pour un week-e nd de pur plaisir au cœur de la
 Provence, à Forcalquier. Survolez en montgolfière les Alpes de
 Haute Provence, le massif du Lubéron. Les couleurs de la lavande,
 les senteurs de la Provence feront de ce week-end une douce escale.
-```
-```
-Devenez membre du WWF
+
+### Devenez membre du WWF
 Devenez membre du WWF, 100 % de vos dons financeront
 directement des projets de protection de la nature.
 Pourquoi soutenir cette association?
@@ -3023,29 +2954,24 @@ Pour sauver l ’ ours brun, le loup gris, la flore des Pyrénées
 Pour que les générations futures apprennent à respecter la vie
 marine
 Pour protéger les forêts et restaurer les forêts dégradées.
-```
 
-
-Ampoules à basse consommation
+### Ampoules à basse consommation
 Pour sauver la planète. Chaque geste compte!
 Le geste de la semaine. Je choisis les ampoules à basse consommation
 au lieu des ampoules traditionnelles, vous économiserez de l _’_ énergie
 et de l _’_ argent et vous ferez un geste pour l _’_ environnement. La semaine
 prochaine, surveillez votre consommation d _’_ eau.
 
-```
-Publicité sur sa voiture
+### Publicité sur sa voiture
 Roulez tendance, roulez habillé!
 Gagnez de l ’ argent en mettant de la publicité sur votre voiture!
 Les gains sont fixés en fonction de la formule retenue, la taille et le
 type de votre voiture. Les autocollants utilisés sont collés puis
 décollés par l ’ un de nos partenaires. Pour vous inscrire,
 rendez-vous sur notre site http://www.pubauto.com
-```
-```
-Graphotop
+
+### Graphotop
 À votre service pour analyser votre écriture.
-```
 - La graphologie vous aide à mieux comprendre
     votre personnalité et vos potentiels.
 - la graphologie est un outil complémentaire pour choisir candidat
@@ -3056,8 +2982,8 @@ La graphologie détermine vos aptitudes dans le domaine
 ✓ relationnel (émotivité, esprit d _’_ équipe...)
 _N’hésitez pas à nous contacter._
 
-```
-Gym sur table
+
+### Gym sur table
 LA MÉTHODE D ’ EXERCICE QUI RAVIVE LE CORPS
 Contre le mal de dos! Contre le stress!
 Plus de tonicité et de résistance! Plus de souplesse!
@@ -3065,38 +2991,1165 @@ Cours de groupe ou en privé - Formule de 37 cours - Ouvert 7/7 -
 Encadrement individualisé - Classe d ’ essai gratuit - Inscription toute
 l ’ année
 Réduction de 20 % pendant les mois de mai et novembre.
-```
 
----
-
-<a id="oral-advice"></a>
 ## Oral advice
 
-<a id="how-to-handle-stress-at-speaking-test"></a>
 ### How to handle stress at speaking test
 
 Practice timed simulations and breathing exercises before the exam. Familiarize yourself with standard question types, take rapid notes during preparation time, and start your answer with a clear structure (introduction → main points → short conclusion).
 
-<a id="non-verbal-communication-tips"></a>
 ### Non-verbal communication tips
 
 Maintain eye contact, use natural gestures, sit upright, and avoid distracting movements. Speak clearly and at a measured pace; the examiner notices confidence as much as language accuracy.
 
-<a id="my-recipe-for-shadowing-french"></a>
 ### My recipe for shadowing French
 
 Shadow native audio: listen to short recordings, repeat immediately (imitate rhythm, intonation), and gradually increase speed. Combine with transcripts and shadow aloud for 10–20 minutes daily.
 
 ---
 
-<a id="500-essential-words-for-tef"></a>
 ## 500 essential words for TEF
 
-This section contains high-frequency vocabulary and key expressions useful for both Section A and Section B. (Full list omitted here; see dedicated vocab files in `section_A` and `section_B` folders.)
 
----
+First you will find below a list of vocabulary for common topics in
+TEF Expression Oral exam (logement et travail). Then you will find a
+list for the TEF exam in general.
 
-<a id="one-last-word"></a>
+### Logement
+
+meublé/non meublé
+avec charges/hors charges
+maison mitoyenne
+la caution
+le loyer
+le locataire
+le propriétaire
+l’agence immobilière
+clair(e) - sombre
+calme - bruyant(e)
+moderne - ancien(ne)
+salle de séjour
+salles de bains avec W.-C
+une cuisine
+une cuisinière électrique,
+un four
+un réfrigérateur
+un four à micro-ondes
+un lave-linge
+un garage
+une table
+une chaise rustique
+un bureau
+un lit
+
+
+une commode
+un fauteuil
+un placard
+un rideau
+l’ascenseur
+une cheminée
+le chauffage
+la climatisation
+une terrasse
+bien situé
+un quartier calme/bruyant
+le prix est raisonnable
+la maison/l’appartement qui donne sur...
+un jardin
+un garage
+une cave
+un sous-sol
+un grenier
+
+
+### Emploi
+
+CDI (contrat à durée indéterminée)
+CDD (contrat à durée déterminée)
+une entreprise/une boîte [slang]
+un bureau : office
+un client
+un métier
+un emploi/un travail/un job/un boulot [slang]
+un poste à mi-temps/à plein temps
+les petites annonces
+un curriculum vitae (un CV)
+un entretien
+un salaire
+les congés
+
+
+une promotion
+la retraite : retirement
+prendre un rendez-vous
+embaucher/être embauché(e)
+gérer : to manage, to direct, to organize
+payer des impôts : to pay taxes
+être au chômage : to be unemployed
+être à la retraite : to be retired
+
+
+### a
+à côté de : next to
+à destination de : going to
+à l ’ opposé de/au contraire de: opposite of/on the contrary of
+à la campagne : in the countryside
+à la carte : à la carte
+À la hausse : increase
+à votre santé : cheers
+abonner : subscribe
+acheter des places : buy tickets
+acheter sur
+Internet : buy online
+activités : activities
+adolescence : adolescence
+aéroport : airport
+affiche : poster
+afficher : pin up
+aller à la salle de sport : go to the gym
+aller à pied : walk
+aller à une exposition : go to an exhibition
+aller au bowling : go bowling
+aller au café : go to the cafe
+aller au centre commercial: going to the shopping mall
+aller au cinéma : go to the cinema
+aller au concert : to go to a concert
+aller au musée : to go to the museum
+aller au parc : go to the park
+aller au restaurant : go to the restaurant
+aller au stade : go to the stadium
+aller au théâtre : go to the theater
+aller boire un verre : go have a drink
+aller en discothèque/en boîte : go to disco/club
+aller simple : one way ticket
+aller vers : move towards
+aménager : arrange
+
+amuse-toi bien! amusez-vous bien! : have fun!
+
+anniversaire : anniversary
+
+annonce
+publicitaire : advertisement
+
+annoncer le
+mariage : announce the wedding
+
+annoncer un événement : announce an event
+
+annuler : to cancel
+
+
+appeler : call
+
+argent de poche : pocket money
+
+arrêt de bus : bus stop
+
+arrivée : arrival
+
+arriver : arrive
+
+As-tu des projets? : Do you have any plans?
+
+assister à un
+concert : go to a concert
+
+assister à un événement sportif : attend a sporting event
+
+assister à un spectacle : watch a show
+
+association : association
+
+atelier : workshop
+
+au c **œ** ur de : at the heart of
+
+au lieu de : instead of
+
+auberge : hostel
+
+autoroute : highway
+
+avis de recherche : Wanted poster
+
+avoir lieu : take place
+
+avoir une capacité de X personnes : have a capacity of X people
+
+### B
+bagages/valises : luggage
+
+balcon : balcony
+
+banque : bank
+
+baptême : baptism
+
+baptiser : baptize
+
+bibliothèque : library
+
+
+Bien sûr : Of course
+
+bijouterie : jewelry store
+
+billet : ticket
+
+billet d **’** entrée : entry ticket
+
+billet de train : train ticket
+
+bof : blah
+
+boîte aux lettres : mail box
+
+boîte de nuit : nightclub
+
+bon anniversaire : happy Birthday
+
+bonne idée : good idea
+
+boucherie : butcher shop
+
+boulangerie : bakery
+
+brasserie : brewery
+
+brocante : flea market
+
+### C
+
+c **’** est combien? : how much is it?
+
+ça m **’** est égal : I don’t care
+
+ça ne me dit rien : does not ring a bell
+
+cabane : hut
+
+cadeau : gift
+
+café : coffee
+
+caisse : the cashier
+
+campagne : countryside
+
+camping : camping
+
+cantine : canteen
+
+carnaval : carnival
+
+
+carnet : notebook
+
+carrefour : crossroads
+
+carte bancaire/carte de crédit : credit card
+
+carte de visite : visit card
+
+carte postale : Post card
+
+carton d **’** invitation (une carte d **’** invitation) : invitation card
+
+causer : cause
+
+ce document s **’** adresse à: this document is for
+
+ce message a été écrit pour : this message was written for
+
+centre
+commercial : mall
+
+centre-sportif : sports center
+
+chaîne (de
+télévision) : TV channel
+
+chambre : bedroom
+
+chanter : sing
+
+chantier : construction site
+
+château : castle
+
+chatter : chat
+
+chemise : shirt
+
+cher : expensive
+
+chirurgie : surgery
+
+choisir : to choose
+
+chouette : nice
+
+chronique : chronic
+
+
+cinéma : cinema
+
+classe : classroom
+
+colline : hill
+
+commande : order
+
+commissariat de police : police station
+
+composter : to validate
+
+comptoir : counter
+
+concernant : concerning
+
+concert : concert
+
+concours : competition
+
+continuer : Continue
+
+contrôle des
+tickets : ticket control
+
+correspondance : connection change of plane or flight
+
+cour de
+récréation : playground
+
+courir : run
+
+courriel (on ne peut pas utiliser **«** email » au Québec) : email
+
+coûter : cost
+
+coutume, l **’** habitude :
+
+```
+custom, habit,
+usage
+```
+croisière : a cruise
+
+cuisiner : to cook
+
+CV : a resume
+
+### D
+
+d **’** accord : OK
+
+d **’** après le titre : according to the title
+
+
+dans : in
+
+dans un train : In a train
+
+dans une maison : in a house
+
+danser : dance
+
+décéder : die
+
+déjeuner : lunch
+
+demander un service : ask for a service
+
+déménager : to move out
+
+démodé : old fashioned
+
+démographique : demographic
+
+départ : departure
+
+départ en retraite : to retire
+
+dernier : latest
+
+derrière : behind
+
+des baskets : trainers
+
+des billets : banknotes
+
+des chaussures : shoes
+
+des espèces, du liquide : cash money
+
+des faire-part : announcements
+
+des pièces : coins
+
+dès que possible : as soon as possible
+
+désolé, mais je ne peux pas : sorry, but I can't
+
+dessert : dessert
+
+dessiner : draw
+
+dessous : below
+
+
+dessus : above
+
+détester : to hate
+
+devant : in front of
+
+distributeur automatique : ATM
+
+divorcer : divorce
+
+dormir : to sleep
+
+dossier
+d **’** inscription : registration form
+
+droite : right
+
+### E
+
+échange : exchange
+
+école : school
+
+écouter de la
+musique : listen to music
+
+écran : screen
+
+écrire un SMS : write an SMS
+
+église : church
+
+élever les enfants : raising children
+
+empêcher : avoid
+
+emplacement : location
+
+en avion : by plane
+
+en bateau : by boat
+
+en face de : in front of
+
+en provenance de : from
+
+en retard/en avance : late/early
+
+en train : by train
+
+
+encaisser : cash
+
+endroit : place
+
+enfance : childhood
+
+enregistrement : checking for a flight
+
+enterrement : burial
+
+entrée : staters
+
+entretien : an interview
+
+envoyer à : send to
+
+épicerie : grocery
+
+escalade : climbing
+
+escaliers : stairs
+
+être fabriqué en : be made in
+
+être fatigué de quelque chose : to be tired of something
+
+être fourni avec : be supplied with
+
+être idéal pour : to be ideal for
+
+événement : event
+
+éviter : to avoid
+
+excellent : excellent
+
+exposant : exhibitor
+
+exposition : exhibition
+
+extrait : extract
+
+extraordinaire : extraordinary
+
+### F
+
+facture : a receipt
+
+faire de l ́équitation : horseback riding
+
+faire de l ́escalade : rock climbing
+
+
+faire de la boxe : boxing
+
+faire de la chasse : go hunting
+
+faire de la chorale : to sing in a choir
+
+faire de la cuisine : to cook
+
+faire de la danse : to dance
+
+faire de la natation : swim
+
+faire de la pêche : fishing
+
+faire de la peinture : do painting
+
+faire de la photo : take a picture
+
+faire de la voile : go sailing
+
+faire des
+magasins : go shopping
+
+faire du dessin : to draw
+
+faire du jardinage : gardening
+
+faire du jogging : to jog
+
+faire du shopping : go shopping
+
+faire du skateboard : skateboarding
+
+faire du ski : to ski
+
+faire du sport : play sports
+
+faire du vélo : go biking
+
+faire du vélo : ride a bike
+
+faire la fête : to party
+
+faire la grasse matinée : lie in
+
+faire la queue : stand in line
+
+
+faire les
+boutiques : go shopping
+
+faire les courses : shopping
+
+faire les magasins : to shop
+
+faire un jogging : Jogging
+
+faire une balade : take a walk
+
+faire une croisière en bateau : take a boat cruise
+
+faire une promenade : to take a walk
+
+faire une randonnée à vélo : go cycling
+
+faire-part : announcement
+
+faire-part de mariage : wedding announcement
+
+faire-part de naissance : birth announcements
+
+fast-food : fast food
+
+festival : festival
+
+fête : party
+
+fête foraine : fun fair
+
+fiche
+d **’** inscription : registration form
+
+fille au pair : au pair
+
+fleuve : river
+
+foire, le salon : fair
+
+fonctionner avec : work with
+
+fontaine : fountain
+
+forêt : forest
+
+forum de discussion : discussion forum
+
+### G
+
+garage : garage
+
+gare : station
+
+gauche : left
+
+gendarmerie : police station
+
+grandir : grow
+
+guichet : counter
+
+gymnase : gymnasium
+
+### H
+
+hésiter à faire qc : hesitate to do sth
+
+hôpital : hospital
+
+horaires : hours
+
+hôtesse : hostess
+
+### I
+
+immeuble : apartment building
+
+immobilier : real estate
+
+inauguration : inauguration
+
+inaugurer : inaugurate
+
+inscription : registration
+
+interdiction de marcher sur les
+pelouses :
+
+```
+formal ban on walking
+on lawns
+```
+invitation : invitation
+
+inviter à un
+anniversaire : invite to a birthday
+
+inviter à une
+présentation : invite to a presentation
+
+inviter quelqu **’** un : invite someone
+
+### J
+
+jardin : garden
+
+jardiner : to garden
+
+
+je dois : I must
+
+je n **’** ai pas envie : I don’t want
+
+je pense que : I think that
+
+je voudrais : I would like
+
+jeu : game
+
+jogging : jogging
+
+joli : pretty
+
+jouer à
+l **’** ordinateur : play computer
+
+jouer au badminton : play badminton
+
+jouer au basket : play basketball
+
+jouer au foot : play football
+
+jouer au football : play soccer
+
+jouer au tennis : play tennis
+
+jouer au volley : play volley-ball
+
+jouer aux cartes : play cards
+
+jouer aux jeux vidéo : playing video games
+
+jouer d **’** un instrument de
+musique : play a musical instrument
+
+jouer de la batterie : play the drums
+
+jouer de la flûte : to play the flute
+
+jouer de la guitare : playing guitar
+
+jouer de la musique : play music
+
+jouer du piano : play piano
+
+Joyeux Anniversaire : Happy Birthday
+
+
+Joyeux Noël : Merry Christmas
+
+jupe : skirt
+
+### K
+
+kiosque : kiosk
+
+### L
+
+l **’** addition/la note : the bill
+
+la TVA : VAT
+
+lave-linge : washing machine
+
+lecture : reading
+
+léger : lightweight
+
+lessive : laundry
+
+lettre de motivation : cover letter
+
+librairie : bookstore
+
+libre : free
+
+ligne de metro : underground line
+
+lire des livres : read books
+
+loin de : far from
+
+louer : to rent
+
+ludique : playful
+
+lycée : high school
+
+### M
+
+magasin : store
+
+maigrir/perdre du poids : lose weight
+
+mail : mail
+
+mairie/hôtel de ville : town hall/city hall
+
+maison : house
+
+marché : market
+
+marcher : walk
+
+
+mari et femme : husband and wife
+
+mariage civil : civil marriage
+
+mariage religieux : religious marriage
+
+menu : menu
+
+mer : sea
+
+moins cher : cheaper
+
+montagne : mountain
+
+monument : monument
+
+moquette : carpet
+
+mourir : pass away
+
+musée : museum
+
+### N 
+
+nager : to swim
+
+naître : to be born
+
+ne pas être libre : not to be free
+
+Ni échangeable, ni
+remboursable :
+
+```
+Neither exchangeable nor
+refundable
+```
+noces : wedding
+
+Noël : Christmas
+
+nouveau : new
+
+nouveau-né : new born
+
+Nouvel An : New Year
+
+### O
+
+obsèques/funérailles : funeral/fun
+
+office de tourisme : tourist office
+
+On se retrouve... : Let’s meet...
+
+
+opéra : opera
+
+### P 
+
+pancarte : sign
+
+panneaux de signalisation : road signs
+
+pantalon : trousers
+
+par semaine : per week
+
+parc : park
+
+parc d **’** attraction : amusement park
+
+parcours professionnel : professionnal career
+
+pays : country
+
+peindre : to paint
+
+permettre de : allows to
+
+petite annonce : classified ad
+
+pharmacie : pharmacy
+
+photographier : photograph
+
+piscine : swimming pool
+
+place : square
+
+plage : beach
+
+plaque : plate
+
+plat principal : main course
+
+plombier : plumber
+
+plus cher : more expensive
+
+poissonnerie : fish shop
+
+pompiers : firefighters
+
+pont : bridge
+
+port : harbor
+
+
+poste : post
+
+pourboire : tip
+
+prendre : to take
+
+près de : near
+
+prévenir : prevent
+
+prévision : forecast
+
+pris en charge : supported, included
+
+prise de courant : plug
+
+privatiser : privatize
+
+prix : price
+
+prix très compétitif : very competitive price
+
+programme : program
+
+promenade : walk
+
+promener le
+chien : walk the dog
+
+promotion : promotion
+
+proposer qqc : suggest something
+
+publicitaire : advertising
+
+pull : sweater
+
+### Q
+
+quai : dock
+
+quelle couleur? : what color?
+
+quelle taille? : what size?
+
+quotidien : daily
+
+### R
+
+rayons : shelves/departments
+
+recyclable : recyclable
+
+
+réduction/promotion : discount
+
+regarder des films ou des séries : watching movies or series
+
+regarder la télévision : watch television
+
+région : region
+
+remboursement : refund
+
+rencontrer d **’** autres personnes : meet other people
+
+rencontrer des amis : meet friends
+
+rendre visite à quelqu **’** un : visit someone
+
+renouveler : renew
+
+renseigner : inquire
+
+reposer : rest
+
+réserver des
+places : reserve seats
+
+réserver une table : To book a table
+
+restaurant : restaurant
+
+rester à la maison : stay at home
+
+retrouver ses
+amis : find his friends
+
+réunion : meeting
+
+robe : dress
+
+rond-point : roundabout
+
+rue : street
+
+### S
+
+s **’** addresser à : address to
+
+s **’** amuser : enjoy
+
+s **’** épouser : marry
+
+
+s **’** installer : settle down
+
+salle à manger : dining room
+
+salle de bain : bathroom
+
+salle de séjour : living room
+
+salon : living room
+
+sans intérêt : without interest
+
+sauf : except
+
+saut en parachute : parachute jump
+
+scène : stage
+
+scolaire : academic
+
+scolarité : schooling
+
+se baigner : swim
+
+se débouiller : get by
+
+se faire des amis : to make friends
+
+se marier : to marry
+
+se promener : to walk
+
+se renseigner : ask about
+
+se séparer : separate
+
+serveur/serveuse : the waiter
+
+siège : seat
+
+skier : to ski
+
+sondage : survey
+
+sortir : exit
+
+sous : under
+
+spectacle : show
+
+
+spot : spot
+
+stade : stadium
+
+stagiaire : intern
+
+station : station
+
+station de métro : subway station
+
+station-service : gas station
+
+statistique : statistical
+
+supermarché : supermarket
+
+supprimer : remove
+
+sur : on
+
+sur Internet : on the Internet
+
+sur un mur : on a wall
+
+sur un vêtement : on a garment
+
+sur une lettre : on a letter
+
+surfer sur
+Internet : surf the Internet
+
+sweat : sweatshirt
+
+### T
+
+tarif : rate
+
+tarifs : prices
+
+T-shirt : T-shirt
+
+téléphoner : call
+
+terrasse : terrace
+
+théâtre : theater
+
+ticket de metro : subway ticket
+
+titre : title
+
+
+toilettes : bathroom
+
+tomber amoureux : to fall in love
+
+tourner : turn
+
+un tract, une affiche : advertising leaflet, poster
+
+très : very
+
+trop : too much
+
+trottoir : pavement
+
+trouver un emploi : find a job
+
+Tu es libre? : You are free?
+
+Tu veux? : You want?
+
+tunnel : tunnel
+
+### U
+
+université : university
+
+utile : useful
+
+### V 
+
+vacances : holidays
+
+valider le panier/la commande : validate the basket/order
+
+vernissage : art exhibit opening
+
+veste : jacket
+
+ville : city
+
+visiter quelque chose : visit something
+
+visiter un musée : visit a museum
+
+visiteur : visitor
+
+v **œ** ux de bonheur : best wishes
+
+voie : track
+
+voir un film : To see a film
+
+voir un spectacle : see a show
+
+
+voir une pièce de théâtre : see a play
+
+voiture : train carriage
+
+vol : a flight
+
+voyage de noces : honeymoon
+
+VTT (vélo tout terrain) : MTB (mountain bike)
+
 ## One last word
 
 Good luck with your preparation — practice consistently, focus on clarity, and use the topic lists in this book to rehearse real exam interactions.
