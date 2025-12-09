@@ -1,0 +1,94 @@
+# Section A — Topics
+
+This file lists all topics found under Section A (Topics) in `TEF-CANADA-Expression-Oral.md`.
+
+- Appartement à vendre
+- Appartement à louer
+- Maison à vendre
+- Meubles à vendre
+- Échange d’appartement
+- Location de vélo
+- Musée du Louvre
+- Camp d’été pour enfants
+- La fête des voisins
+- Atelier Musique et Spectacles
+- Centre Sport et Forme
+- Soutien scolaire
+- Cours (general)
+- Cours de cuisine
+- Cours de jardinage
+- Cours de Yoga
+- Cours de piano
+- S’inscrire dans une école de danse
+- Cours de pilotage
+- S’inscrire à des cours des langues étrangères
+- Cours de journalisme
+- Hôtel Méribourg
+- Hôtel Boissière
+- Thalasso en Tunisie
+- Location de voiture
+- Star Med Vacances
+- Vacances Joker
+- Concours de chanson
+- Recherche des acteurs figurants
+- Garde d’enfants
+- Recherche baby-sitter
+- Offre d’emploi: garde d’animaux
+- Garde d’animaux
+- Gardiennage de maison
+- Emprunter un ordinateur
+- Cœur de cible (organisation de mariage)
+- DJ Clément
+- Privatisation d’un restaurant pour événements
+- Devenez bénévole
+- Engager un photographe professionnel
+- Orchestre
+- Traiteur
+- Emploi pour professeur de langues étrangères
+- Randonnée cycliste
+- Devenez bénévoles (offrez votre temps libre)
+- Achat de lunettes
+- Dîner / Soirée dansante sur péniche
+- Cours de conduite
+- Faites décoller votre carrière (école de langues)
+- Zumba
+- Cours de pâtisserie
+- Destination soleil / Week-ends à petits prix
+- Voyages (ex. Prague, Cracovie)
+- Croisière d’Orient
+- Concours de scénarios de courts métrages
+- Hammamet (offre de voyage)
+- Choix des comédiens pour rôle secondaire
+- Voyages culturels sur les cinq continents
+- DIFC Informatique
+- Voyages de noces
+- Chasse au trésor
+- Circuits en traîneau à chiens
+- Devenez exposant dans notre brocante
+- Faites la tournée des bars avec notre vélo géant
+- Spectacle (cirque)
+- Ferme aux crocodiles
+- Festival Océan Climax
+- Office du tourisme (excursions nocturnes)
+- Le Club des Téléspectateurs
+- Location de vélos électriques
+- Location de bateau
+- Location d’un château
+- Observatoire / Planétarium
+- Forum social
+- Vivre au Moyen-Âge
+- Verrerie (atelier de verrerie d’art)
+- Loca Costumes
+- Cours de bricolage
+- Cours d’œnologie
+- Studio - Café
+- Des Filles et des Garçons (agence de mannequins enfants)
+- Professeur de langue (offres d’emploi)
+- Allô P’tit Déj (livraison petits-déjeuners)
+- Baby-sitting canin
+- Centre de Recyclage Universel
+- Espace de stockage
+- Magasin Art & Déco
+- Liseuse (achat de liseuse / livres numériques)
+
+*Extracted from `TEF-CANADA-Expression-Oral.md` — Section A (Topics).*
