@@ -358,7 +358,7 @@ This reference contains the most important verbs for Section B discussions, conj
 
 ## Quick Reference: High-Frequency Section B Verbs
 
-**Top 10 Verbs Most Used in Objections:**
+### Top 10 Verbs Most Used in Objections
 1. **Préférer** — express preferences (Je préfère...)
 2. **Penser** — state opinions (Je pense que...)
 3. **Croire** — express belief (Je crois que...)

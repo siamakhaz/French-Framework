@@ -18,28 +18,28 @@ Introduce the topic clearly, state your position, and establish credibility. Thi
 
 ### Step-by-Step Opening Strategy
 
-**Step 1: Greet & Set Context (2–3 seconds)**
+#### Step 1: Greet & Set Context (2–3 seconds)
 ```
 "Bonjour! Aujourd'hui, j'aimerais vous parler de..."
 "Bon, le sujet qui m'intéresse aujourd'hui, c'est..."
 "OK, alors voilà, je voudrais vous présenter..."
 ```
 
-**Step 2: State the Topic Clearly (3–5 seconds)**
+#### Step 2: State the Topic Clearly (3–5 seconds)
 ```
 "Il s'agit de [topic name]."
 "Le sujet, c'est [topic]."
 "On parle de [topic] aujourd'hui."
 ```
 
-**Step 3: Briefly Describe What It Is (5–8 seconds)**
+#### Step 3: Briefly Describe What It Is (5–8 seconds)
 ```
 "C'est une activité/service/concept/méthode qui..."
 "Donc, [topic] c'est quand/où/comment [brief explanation]."
 "En gros, il s'agit de [simple definition]."
 ```
 
-**Step 4: State Your Position (5–10 seconds)**
+#### Step 4: State Your Position (5–10 seconds)
 ```
 "Moi, je pense que c'est une excellente idée parce que..."
 "À mon avis, c'est vraiment bénéfique pour..."
@@ -231,7 +231,7 @@ The examiner WILL interrupt with objections. This is EXPECTED and GOOD—it show
 
 ### The Concession-Rebuttal Formula
 
-**Step 1: Acknowledge the Objection**
+#### Step 1: Acknowledge the Objection
 ```
 "C'est vrai que..."
 "Vous avez raison que..."
@@ -241,7 +241,7 @@ The examiner WILL interrupt with objections. This is EXPECTED and GOOD—it show
 "Oui, c'est vrai, il y a des risques..."
 ```
 
-**Step 2: Introduce Your Counterargument**
+#### Step 2: Introduce Your Counterargument
 ```
 "Mais..."
 "Cependant..."
@@ -252,7 +252,7 @@ The examiner WILL interrupt with objections. This is EXPECTED and GOOD—it show
 "Mais ce qui est important, c'est..."
 ```
 
-**Step 3: Provide Your Response**
+#### Step 3: Provide Your Response
 ```
 [Explain why their objection doesn't outweigh your main point]
 ```
@@ -368,7 +368,7 @@ Summarize your position, reinforce why it matters, and leave a strong final impr
 
 ### Closing Formula
 
-**Step 1: Signal You're Concluding (3–5 seconds)**
+#### Step 1: Signal You're Concluding (3–5 seconds)
 ```
 "En conclusion..."
 "Pour résumer..."
@@ -378,21 +378,21 @@ Summarize your position, reinforce why it matters, and leave a strong final impr
 "Voilà, c'est pour ça que..."
 ```
 
-**Step 2: Restate Your Position (5–10 seconds)**
+#### Step 2: Restate Your Position (5–10 seconds)
 ```
 "Je suis convaincu que [topic] est une excellente idée."
 "Vous voyez, [topic] vraiment bénéfique parce que..."
 "Donc, à mon avis, [topic] devrait..."
 ```
 
-**Step 3: Reinforce the Main Benefit (10–15 seconds)**
+#### Step 3: Reinforce the Main Benefit (10–15 seconds)
 ```
 "Les principaux avantages sont: [list 1-2 key benefits]"
 "Ce qui est important, c'est que ça [main impact]."
 "L'essentiel, c'est [core message]."
 ```
 
-**Step 4: End with Impact (5–10 seconds)**
+#### Step 4: End with Impact (5–10 seconds)
 ```
 "Et c'est pour ça que je vous encourage vraiment à essayer."
 "Voilà pourquoi c'est une excellente initiative."

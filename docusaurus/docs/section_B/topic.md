@@ -8,9 +8,11 @@ Use this list to practice the Section B format: present the topic (20-30s), deve
 
 ## 1. Échangez votre logement pour les vacances!
 
-**Concept:** Home exchange instead of hotels; save money, feel at home elsewhere, option to exchange vehicles and ask neighbors to water plants / feed pets.
+### Concept
 
-**Common objections:**
+Home exchange instead of hotels; save money, feel at home elsewhere, option to exchange vehicles and ask neighbors to water plants / feed pets.
+
+### Common objections
 - Je pense que ce n'est pas très pratique.
 - Je préfère aller à l'hôtel, il y a plus de choix et de services.
 - J'ai peur qu'on me vole mes affaires.
@@ -24,9 +26,11 @@ Use this list to practice the Section B format: present the topic (20-30s), deve
 
 ## 2. Un dîner dans le noir
 
-**Concept:** Blind dining experience; use all senses (smell, taste, hearing, touch, vision); fun and convivial evening among friends; mystery meal.
+### Concept
 
-**Common objections:**
+Blind dining experience; use all senses (smell, taste, hearing, touch, vision); fun and convivial evening among friends; mystery meal.
+
+### Common objections
 - Comment surveiller mes affaires?
 - Pour parler aux autres, on a besoin de les voir.
 - On ne peut pas voir ce que l'on mange, on pourrait avoir de mauvaises surprises.
@@ -42,9 +46,11 @@ Use this list to practice the Section B format: present the topic (20-30s), deve
 
 ## 3. Faites de belles rencontres (site de rencontre)
 
-**Concept:** Online dating platform; find love / beautiful relationships; members looking for real connections; putting everything in place for meaningful experiences.
+### Concept
 
-**Common objections:**
+Online dating platform; find love / beautiful relationships; members looking for real connections; putting everything in place for meaningful experiences.
+
+### Common objections
 - Je ne suis pas disponible, car je suis occupé par mon travail.
 - Cette façon de rencontre ne me plaît pas. Je déteste me montrer en public pour ça.
 - Je ne suis pas prêt à prendre des responsabilités familiales.
@@ -63,9 +69,11 @@ Use this list to practice the Section B format: present the topic (20-30s), deve
 
 ## 4. Un premier vol en « ballon libre » (Hot air balloon)
 
-**Concept:** Unforgettable first hot air balloon experience; discover heritage and UNESCO world heritage sites; beauty of castles; be at the heart of nature; magnificent landscapes.
+### Concept
 
-**Common objections:**
+Unforgettable first hot air balloon experience; discover heritage and UNESCO world heritage sites; beauty of castles; be at the heart of nature; magnificent landscapes.
+
+### Common objections
 - Non, je ne suis pas intéressé, et pourquoi on visite les châteaux en montgolfière? On peut bien aller dans les châteaux pour les visiter.
 - Mais prendre la montgolfière est très dangereux.
 - J'ai l'acrophobie. J'ai même mal d'air. J'ai le vertige.
@@ -81,9 +89,11 @@ Use this list to practice the Section B format: present the topic (20-30s), deve
 
 ## 5. Chantiers de fouilles (Archaeological dig)
 
-**Concept:** Participate in archaeological digs; advance scientific research; understand how ancestors lived; meet passionate history-lovers; free accommodation; friendly welcome.
+### Concept
 
-**Common objections:**
+Participate in archaeological digs; advance scientific research; understand how ancestors lived; meet passionate history-lovers; free accommodation; friendly welcome.
+
+### Common objections
 - J'ai peur de me blesser ou d'avoir mal au dos.
 - Ça doit être très salissant.
 - Je ne suis pas assez patient.
@@ -98,9 +108,11 @@ Use this list to practice the Section B format: present the topic (20-30s), deve
 
 ## 6. Don de votre sang (Blood donation)
 
-**Concept:** Donate blood; help save lives; eligible ages 17–70 (no first donation after 70); must weigh at least 50 kg; last donation 8+ weeks prior; no fasting required; sterile, single-use equipment.
+### Concept
 
-**Common objections:**
+Donate blood; help save lives; eligible ages 17–70 (no first donation after 70); must weigh at least 50 kg; last donation 8+ weeks prior; no fasting required; sterile, single-use equipment.
+
+### Common objections
 - Ça prend du temps (se déplacer, attendre avant et après...).
 - J'ai peur du manque d'hygiène, des maladies transmissibles par le sang.
 - J'ai peur des piqûres, ça fait mal.
