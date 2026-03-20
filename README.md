@@ -8,11 +8,18 @@
 
 ## 📖 Overview
 
-The **TEF Canada Oral Exam Preparation Framework** is a focused, systematic learning resource designed specifically for students preparing for the TEF Canada oral expression exam. This framework breaks down the exam into manageable sections, providing you with the exact grammar, vocabulary, and conversation strategies you need to succeed.
+The **TEF Canada Preparation Framework** is a focused, systematic learning resource designed for students preparing for the TEF Canada exam. It currently covers the oral exam in depth and now includes an added writing section for TEFAQ/TEF-style formal letter practice.
 
 **🌐 [Access the complete framework online](https://siamakhaz.github.io/French-Framework/)**
 
 ### 🎯 What This Framework Offers
+
+**For Writing Section B:**
+- ✅ Fixed formal letter template
+- ✅ Reusable sentence blocks and cheat sheet
+- ✅ Clear writing rules for structured practice
+- ✅ Prompt format for repeatable drills
+- ✅ Exam-friendly, memorization-oriented workflow
 
 **For Section A (Questions & Responses):**
 - ✅ Common question patterns and how to recognize them
@@ -79,7 +86,10 @@ The first section of the TEF oral exam tests your ability to respond to direct q
 5. Time yourself responding to sample questions
 
 ### 💬 Section B: Open Discussion
-The second section requires you to express opinions, defend positions, and engage in extended discourse on various topics.
+The second oral section requires you to express opinions, defend positions, and engage in extended discourse on various topics.
+
+### ✍️ Writing Section B
+The writing section focuses on formal letter production using a stable template and reusable argument blocks.
 
 **What You'll Find:**
 - **150+ Discussion Topics**: Organized by category (society, technology, environment, culture, etc.)

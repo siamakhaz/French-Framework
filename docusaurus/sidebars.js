@@ -26,6 +26,17 @@ const sidebarStructure = [
       'section_B/Vocabs',
     ],
   },
+  {
+    type: 'category',
+    label: 'Writing — Section B',
+    items: [
+      'writing/overview',
+      'writing/template',
+      'writing/cheat-sheet',
+      'writing/rules',
+      'writing/prompt-format',
+    ],
+  },
 ];
 
 module.exports = {
