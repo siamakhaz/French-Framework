@@ -67,6 +67,11 @@ Then open `http://localhost:3000` in your browser.
 
 ## 📚 Content Structure
 
+The documentation is now organized into three main study tracks:
+- **Section A** → short direct oral responses
+- **Section B** → discussion, opinion, and argumentation
+- **Writing Section B** → formal letter practice with template + phrase blocks
+
 ### 🎤 Section A: Direct Questions
 The first section of the TEF oral exam tests your ability to respond to direct questions clearly and accurately.
 

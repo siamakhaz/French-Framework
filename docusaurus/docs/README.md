@@ -8,8 +8,8 @@ slug: /docs-home
 
 This folder contains the TEF oral materials plus the added TEFAQ writing section.
 
-- [Section A — Topics & resources](/section_A/topics)
-- [Section B — Topics & resources](/section_B/topic)
+- [Section A — Overview](/section_A/overview)
+- [Section B — Overview](/section_B/overview)
 - [Writing — Section B overview](/writing/overview)
 - [Original full source (MD)](/original)
 

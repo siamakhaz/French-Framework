@@ -4,6 +4,7 @@ const sidebarStructure = [
     type: 'category',
     label: 'Section A',
     items: [
+      'section_A/overview',
       'section_A/topics',
       'section_A/topics_by_category',
       'section_A/topics_questions_by_category',
@@ -19,11 +20,12 @@ const sidebarStructure = [
     type: 'category',
     label: 'Section B',
     items: [
+      'section_B/overview',
       'section_B/topic',
       'section_B/grammar_section_B',
-      'section_B/section_b_playbook',
-      'section_B/verbs_conjugations',
       'section_B/Vocabs',
+      'section_B/verbs_conjugations',
+      'section_B/section_b_playbook',
     ],
   },
   {
